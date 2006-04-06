@@ -1,16 +1,57 @@
-<center><font size="4">Uru rubuga ruhaliwe Wikipedia mu  <b>Kinyarwanda</b>  Ubu hali inyandiko {{NUMBEROFARTICLES}}.</font> </center>
-<center><font size="3">''Niba muvuga ikinyarwanda, iyi "Encyclopedie" nibe iyanyu ''</font></center>
-<br><br>
-[http://www.wikipedia.com Mwashaka kumenya ibyisumbuye mwareba ku rubuga rukuru]
+<center><br />
+<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
+<big>'''Uru rubuga ruhaliwe Wikipedia mu Kinyarwanda. Ubu hali inyandiko {{NUMBEROFARTICLES}}.'''</big><br /><br />
+<big>''Niba muvuga ikinyarwanda, iyi "Encyclopedie" nibe iyanyu.''</big><br /><br />
+[http://www.wikipedia.org/ Mwashaka kumenya ibyisumbuye mwareba ku rubuga rukuru]
 
+
+<div width="95%" style="text-align:left">
 *[[Rwanda]]
-
-==Links==
 *[http://www.freelang.net/dictionary/kinyarwanda.html Kinyarwanda dictionary]
 *[http://www.bbc.co.uk/greatlakes/ BBC]
+</div>
+</div>
 
-[[en:Main Page]]
-[[fr:Acceuil]]
-[[ln:Lonkásá ya libosó]]
-[[sw:Mwanzo]]
--------
+
+<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
+<big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Kinyarwanda_language|Kinyarwanda]] language.'''</big><br /><br />
+<big>''If you speak Kinyarwanda, go ahead and start working on the encyclopedia!''</big><br /><br />
+For more information, see the [[:en:|English Wikipedia]].
+</div>
+
+
+<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
+<big>'''Ce lieu est réservé pour la création d'un Wikipédia en langue [[:fr:Kinyarwanda|Kinyarwanda]].'''</big><br /><br />
+<big>''Si vous parlez Kinyarwanda, modifiez le texte et commencez à écrire dans l'encyclopédie !''</big><br /><br />
+Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
+</div>
+
+
+<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
+<big>'''Este subdominio está reservado para la creación de una Wikipedia en lengua [[:es:Idioma_kinyarwanda|Kinyarwanda]].'''</big><br /><br />
+<big>''Si usted habla Kinyarwanda, modifique el texto y comience a trabajar en la enciclopedia.''</big><br /><br />
+Para mayor información, visite la [[:es:|Wikipedia en español]].
+</div>
+
+
+<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;" dir="rtl">
+<big>'''هذا الموقع مختص لكتابة موسوعة حرة "ويكيبيديا" بالكانورية..'''</big><br /><br />
+<big>إذا يعجب الفكرة، فاكتبها! إضغط عبلى edit وترجم هذا النص إلى الكانورية أو ابدأ أن تكتب مقالات.</big><br /><br />
+[[:ar:|لمعلومات أحرى ومساعدة بالعربية إضغط هنا.]]
+</div>
+
+
+<div style="width:96%;margin-top:+.7em;border:1px solid #cedff2;background-color:#f5faff;padding:.7em;text-align:center;">
+<big>'''Diese Subdomain ist für die Erstellung einer Wikipedia in der [[:de:Kinyarwanda|Kinyarwanda]] Sprache reserviert.'''</big><br /><br />
+<big>''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''</big><br /><br />
+Weitere Informationen befinden sich auf der [[:de:|Deutsche Wikipedia]].
+</div>
+
+
+Number of articles: '''{{NUMBEROFARTICLES}}'''
+
+'''[http://www.wikipedia.org/ www.wikipedia.org]'''
+</center>
+
+<!-- interwikis to African-language Wikipedias and relevant large Wikipedias -->
+[[aa:]] [[af:]] [[ak:]] [[am:]] [[ar:]] [[bm:]] [[ny:]] [[de:]] [[en:]] [[eo:]] [[ee:]] [[fr:]] [[ff:]] [[ki:]] [[ha:]] [[ig:]] [[kr:]] [[kg:]] [[kj:]] [[ln:]] [[lg:]] [[mg:]] [[om:]] [[ng:]] [[hz:]] [[pt:]] [[rn:]] [[sg:]] [[sn:]] [[so:]] [[sw:]] [[st:]] [[ss:]] [[ti:]] [[ve:]] [[ts:]] [[tn:]] [[tum:]] [[tw:]] [[wo:]] [[yo:]] [[xh:]] [[zu:]]
