@@ -18,7 +18,73 @@ Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].</div>
 |-
 | valign="top"|
 <!-- ============================================= -->
+
+{{#if:{{{cellule|}}}|{{!}}valign="top" width="{{{width|50%}}}" class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px"{{!}}|<div class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px;vertical-align:top">}}
+<h2 class="headergris">Urubuga rw'amasite ashingiye ku byiciro</h2>
+<div class="accueil_contenu">{{{precontenu|}}}
+
+{|width="100%" border="0" cellspacing="0" cellpadding="5" style="background:transparent"
+|-
+<!-- ________________________________________ -->
+|{{Lien sur icône|image=Artalt.png|largeur=55px|lien=:Catégorie:Art|texte=Catégorie:Art}}
+|'''[[Portail:Arts|Ubugeni n'Ubumenyamuntu]]'''<br />
+
+<!-- ________________________________________ -->
+|-
+<!-- ________________________________________ -->
+|{{Lien sur icône|image=Sciences exactes.svg|largeur=55px|lien=:Catégorie:Sciences|texte=Catégorie:Sciences}}
+|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Sciences|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]'''<br />
+
+<!-- ________________________________________ -->
+|-
+<!-- ________________________________________ -->
+|{{Lien sur icône|image=Sciences humaines.svg|largeur=55px|lien=:Catégorie:Sciences humaines et sociales|texte=Catégorie:Sciences humaines}}
+|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Sciences humaines|Ubumenyi nyamuntu]] et [[Portail:Sciences sociales|sociales]]'''<br />
+
+<!-- ________________________________________ -->
+|-
+|{{Lien sur icône|image=Société.png|largeur=55px|lien=:Catégorie:Société|texte=Catégorie:Société}}
+|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Société|Umuryango w'abantu]]'''<br />
+
+<!-- ________________________________________ -->
+|-
+<!-- ________________________________________ -->
+<!-- ________________________________________ -->
+|-
+<!-- ________________________________________ -->
+|{{Lien sur icône|image=Nuvola apps kcmsystem.png|largeur=55px|lien=:Catégorie:Technologie|texte=Catégorie:Technologie}}
+|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Technologies|Ikoranabuhanga]]'''<br />
+
+<!-- ________________________________________ -->
+|-
+<!-- ________________________________________ -->
+|{{Lien sur icône|image=Loisirs.svg|largeur=55px|lien=:Catégorie:Vie quotidienne|texte=Catégorie:Vie quotidienne}}
+|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Vie quotidienne et loisirs|Ubuzima bwa buri munsi n'imyidagaduro]]'''<br />
+
+|}<noinclude>
+[[Catégorie:Modèle pour les pages d'accueil|{{PAGENAME}}]]
+</noinclude>
+
+{{#if:{{{lien|}}}|
+<div class="accueil_cadre_lien">{{{lien}}}</div>
+<nowiki />}}</div>{{#if:{{{cellule|}}}||</div>}}
+<!-- ============================================= -->
+|style="padding:4px;font-size:1px"|&nbsp;
+|width="50%" valign="top"|
+<!-- ============================================= -->
+
+{{#if:{{{cellule|}}}|{{!}}valign="top" width="{{{width|50%}}}" class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px"{{!}}|<div class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px;vertical-align:top">}}
+<h2 class="headergris">Amakuru arambuye kuri...</h2>
+<div class="accueil_contenu">
+
+[[Gisa Rwigema]]
+
+{{#if:{{{lien|}}}|
+<div class="accueil_cadre_lien">{{{lien}}}</div>
+<nowiki />}}</div>{{#if:{{{cellule|}}}||</div>}}
+
 <div width="95%" style="text-align:left">
+
 * [[Rwanda]]
 * [[Kinyarwanda]]
 * [[Kirundi]]
@@ -36,6 +102,7 @@ Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].</div>
 * [[Yehova]]
 * [[Adamu]]
 * [[Inkoranyamagambo y'Igiholandi n'Ikinyarwanda yakozwe na Emmanuel Habumuremyi]] 
+
 External links:
 * [http://www.freelang.net/dictionary/kinyarwanda.html Kinyarwanda dictionary]
 * [http://www.bbc.co.uk/greatlakes/ BBC]
@@ -43,14 +110,68 @@ External links:
 [http://www.wikipedia.org/ '''Mwashaka kumenya ibyisumbuye mwareba ku rubuga rukuru''']
 </div>
 
-<!-- ==================================================== -->
-{{Projets Wikimedia}}
-{{Accueil/contact}}
-<!--
-pas de menu, pas de « modifier » à chaque section.
+<!-- ============================================= -->
+|style="padding:4px;font-size:1px"|&nbsp;
+|width="100%" valign="bottom"|
+<!-- ============================================= -->
+|}
+|}<!--
 
--->__NOTOC__<!-- -->__NOEDITSECTION__<!--
+-----------------------------Sections at bottom of page------------------------------>
+<div id="mp-other">
+==Ibindi bice bya Wikipediya==
+</div><div id="mp-sister">
+==Imishinga ifitanye isano na Wikipediya==
+Wikipediya icungwa na [[Wikimedia Foundation]], umuryango udaharanira inyungu ari na wo unacunga indi mishinga myinshi ya [[Wikimedia:Our_projects|projects]]:
 
-Liste des vingt plus grands interwikis
+{|class="layout" width="100%" align="center" cellpadding="4" style="text-align:left; background-color: transparent;"
+| align="center" | <imagemap>Image:Commons-logo-31px.png|31px
+default [[commons:|Ibya rusange]]
+desc none</imagemap>
+|width="33%" | '''<span class="plainlinks">[http://commons.wikimedia.org/ Commons]</span>'''<br />Ahashyirwa ibintu by'rusange by'ubuntu
+| align="center" | <imagemap>Image:Wikinews-logo-51px.png|51px
+default [[n:|Wikimakuru]]
+desc none</imagemap>
+|width="33%" | '''<span class="plainlinks">[http://en.wikinews.org/ Wikinews]</span>'''<br />Amakuru y'ubuntu
+| align="center" | <imagemap>Image:Wiktionary-logo-51px.gif|51px
+default [[wikt:|Wiktinkoranya]]
+desc none</imagemap>
+|width="33%" | '''<span class="plainlinks">[http://en.wiktionary.org/ Wiktionary]</span>'''<br />Inkoranya n'Inkoranyanzimbuzi
+|-
+| align="center" | <imagemap>Image:Wikiquote-logo-51px.png|51px
+default [[q:|Wikibyobavuze]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://en.wikiquote.org/ Wikiquote]</span>'''<br />Ikoranyirizo ry'utujambo twubaka abantu bavuze
+| align="center" | <imagemap>Image:Wikibooks-logo-35px.png|35px
+default [[b:|Wikibitabo]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://en.wikibooks.org/ Wikibooks]</span>'''<br />Ibitabo n'izindi nyandiko z'ubuntu
+| align="center" | <imagemap>Image:Wikisource-logo-35px.png|35px
+default [[s:|Wikimvano]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://en.wikisource.org/ Wikisource]</span>'''<br />Isomero ry'ibitabo ku buntu
+|-
+| align="center" | <imagemap>Image:Wikispecies-logo-35px.png|35px
+default [[wikispecies:|Wikibwoko bw'ibinyabuzima]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://species.wikimedia.org/ Wikispecies]</span>'''<br />Ikusanirizo ry'Ubwoko bwose bw'ibinyabuzima
+| align="center" | <imagemap>Image:Wikiversity-logo-41px.png|41px
+default [[v:|Wikikaminuza]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://en.wikiversity.org/ Wikiversity]</span>'''<br />Free learning materials and activities
+| align="center" | <imagemap>Image:Wikimedia Community Logo.svg|35px
+default [[m:|Meta-Wiki]]
+desc none</imagemap>
+| '''<span class="plainlinks">[http://meta.wikimedia.org/ Meta-Wiki]</span>'''<br />Ihuzabikorwa by'umushinga wa Wikimediya
+|}
+<noinclude>
 
--->[[ca:]] [[cs:]] [[de:]] [[en:]] [[eo:]] [[es:]] [[fi:]] [[it:]] [[ja:]] [[nl:]] [[pl:]] [[pt:]] [[no:]] [[ro:]] [[ru:]] [[sk:]] [[sv:]] [[tr:]] [[zh:]]
+</noinclude>
+</div><div id="mp-lang">
+
+==Indimi Wikipediya ibonekamo==
+
+</div><!--
+
+<---------Interwiki strapline---------->
+{{MainPageInterwikis}}
