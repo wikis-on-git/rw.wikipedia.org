@@ -1,10 +1,23 @@
-<div align="center">
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Uru rubuga ruhariwe Wikipediya mu Kinyarwanda.'''</big><br />
+<div id="accueil_titre"><center><big>'''Uru rubuga ruhariwe Wikipediya mu Kinyarwanda.'''</big><br />
 <big>''Niba muvuga ikinyarwanda, iyi Nkoranya nzimbuzi nibe iyanyu.''</big><br />
-Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].
-<br />
+Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].</div>
+<!-- ===================================================== -->
+{|width="100%" cellspacing="0" cellpadding="0" style="margin-top:0.6em"
+|-
+|width="50%" valign="middle" style="border:1px solid #CCF7CC;background:#EEFFEE;padding:7px"|
+'''[[Inyandiko]]''' : '''[[gushakashaka]]''' • '''[[kwifashisha]]''' • '''[[kumenyesha]]'''
+
+[[Inyandiko ziboneye]] • [[Inyandiko zinoze]] • [[Ibyiciro]] • [[Amahitamo]]
+|style="padding:4px;font-size:1px"|&nbsp;
+|width="50%" valign="middle" style="border:1px solid #DDDDF7;background:#F7F7FF;padding:7px"|
+'''[[Kwakira abantu bashya]]''' '''n'''' '''[[umuryango]]'''
+
+[[Iby'ingenzi]] • [[Baza ikibazo]] • [[Amahame y'abashinze wikipediya]] • [[Ambasade]]
+|-
+|style="font-size:0.6em;line-height:0.6em"|&nbsp;
+|-
+| valign="top"|
+<!-- ============================================= -->
 <div width="95%" style="text-align:left">
 * [[Rwanda]]
 * [[Kinyarwanda]]
@@ -30,92 +43,14 @@ External links:
 [http://www.wikipedia.org/ '''Mwashaka kumenya ibyisumbuye mwareba ku rubuga rukuru''']
 </div>
 
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''This subdomain is reserved for the creation of a Wikipedia in the [[:en:Kinyarwanda_language|Kinyarwanda]] language.'''</big><br />
-<big>''If you speak Kinyarwanda, go ahead and start working on the encyclopedia!''</big><br />
-Number of articles: '''{{NUMBEROFARTICLES}}'''<br />
-For more information, see the [[:en:|English Wikipedia]].
-</div>
+<!-- ==================================================== -->
+{{Projets Wikimedia}}
+{{Accueil/contact}}
+<!--
+pas de menu, pas de « modifier » à chaque section.
 
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Ce lieu est réservé pour la création d'un Wikipédia en langue [[:fr:Kinyarwanda|Kinyarwanda]].'''</big><br />
-<big>''Si vous parlez Kinyarwanda, modifiez le texte et commencez à écrire dans l'encyclopédie !''</big><br />
-Pour d'autres informations, voir le [[:fr:|Wikipédia francophone]].
-</div>
+-->__NOTOC__<!-- -->__NOEDITSECTION__<!--
 
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center" dir="rtl">
-<big>'''هذا الموقع مختص لكتابة موسوعة حرة "ويكيبيديا" بلغة [[:en:Kinyarwanda language|كينيارواندا]]..'''</big><br />
-<big>إذا يعجب الفكرة، فاكتبها! إضغط على edit وترجم هذا النص إلى لغة كينيارواندا أو ابدأ أن تكتب مقالات.</big><br />
-[[:ar:|لمعلومات أخرى ومساعدة بالعربية إضغط هنا.]]
-</div>
+Liste des vingt plus grands interwikis
 
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Este subdominio está reservado para la creación de una Wikipedia en lengua [[:es:Idioma_kinyarwanda|Kinyarwanda]].'''</big><br />
-<big>''Si usted habla Kinyarwanda, modifique el texto y comience a trabajar en la enciclopedia.''</big><br />
-Para mayor información, visite la [[:es:|Wikipedia en español]].
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Diese Subdomain ist für die Erstellung einer Wikipedia in der [[:de:Kinyarwanda|Kinyarwanda]] Sprache reserviert.'''</big><br />
-<big>''Wenn du diese Sprache sprichst, fang gleich an, an der Enzyklopädie zu arbeiten!''</big><br />
-Weitere Informationen befinden sich auf der [[:de:|Deutsche Wikipedia]].
-</div>
-
-<div style="width:96%;margin-top:.7em;border:1px solid #cedff2;background:#f5faff;padding:.7em;text-align:center">
-<big>'''Ta subdomena zarezerwowana jest dla Wikipedii w języku [[:pl:Język ruanda-rundi|ruanda-rungi]].'''</big><br />
-<big>''Jeśli mówisz w tym języku zacznij bez obaw edytować!''</big><br />
-Liczba artykułów: '''{{NUMBEROFARTICLES}}'''<br />
-Więcej informacji znajdziesz na [[:pl:|Polskiej Wikipedii]].
-</div>
-
-'''[http://www.wikipedia.org/ www.wikipedia.org]'''
-</div>
-
-{{Languages}}
-For edit and translate this template, go to [[Template:Languages]] and clicking ''Edit'' <br>
-Pour modifier et traduire le template, allez à [[Template:Languages]] et cliquez ''Edit''.
-
-[[aa:]]
-[[af:]]
-[[ak:]]
-[[ar:]]
-[[am:]]
-[[bm:]]
-[[ny:]]
-[[sn:]]
-[[tum:]]
-[[en:]]
-[[es:]]
-[[ee:]]
-[[fr:]]
-[[ff:]]
-[[ki:]]
-[[ha:]]
-[[ig:]]
-[[xh:]]
-[[zu:|zu:]]
-[[kr:]]
-[[rn:]]
-[[sw:]]
-[[kg:]]
-[[kj:]]
-[[ln:]]
-[[lg:]]
-[[mg:]]
-[[mt:]]
-[[om:]]
-[[ng:]]
-[[hz:]]
-[[pl:]]
-[[pt:]]
-[[sg:]]
-[[st:]]
-[[tn:]]
-[[ss:]]
-[[so:]]
-[[ti:]]
-[[ve:]]
-[[tw:]]
-[[wo:]]
-[[ts:]]
-[[yo:]]
+-->[[ca:]] [[cs:]] [[de:]] [[en:]] [[eo:]] [[es:]] [[fi:]] [[it:]] [[ja:]] [[nl:]] [[pl:]] [[pt:]] [[no:]] [[ro:]] [[ru:]] [[sk:]] [[sv:]] [[tr:]] [[zh:]]
