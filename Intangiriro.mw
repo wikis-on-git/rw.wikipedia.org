@@ -170,7 +170,44 @@ desc none</imagemap>
 </div><div id="mp-lang">
 
 ==Indimi Wikipediya ibonekamo==
+<!--Note: This section will be regularly modified to keep it approximately the same size as template:WikipediaSister -->
+<div id="lang">
 
+{{#switch:{{FULLPAGENAME}}|Special:Statistics=|Iyi Wikipediya yanditswe mu [[rurimi rw'Ikinyarwanda|Kinyarwanda]]. Kuva yatangira mu 2001, ifite kugeza ubu inyandiko zigera kuri [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles.&#32;}}Hariho izindi Wikipediya nyinshi; zimwe muri zo zigaragaraho kuba nini cyane zagaragajwe hasi aha.
+<div id="lang-4">
+*Hejuru y'inyandiko 300,000 :[[:en:|<span title="English(de:)">English</span>]] '''·'''  [[:de:|<span title="German (de:)">Deutsch</span>]] '''·''' [[:es:|<span title="Spanish (es:)">Español</span>]] '''·''' [[:fr:|<span title="French (fr:)">Français</span>]] '''·''' [[:it:|<span title="Italian (it:)">Italiano</span>]] '''·''' [[:nl:|<span title="Dutch (nl:)">Nederlands</span>]] '''·''' {{lang|ja|[[:ja:|<span title="Japanese (ja:)">日本語</span>]]}} '''·''' [[:pl:|<span title="Polish (pl:)">Polski</span>]] '''·''' [[:pt:|<span title="Portuguese (pt:)">Português</span>]] '''·''' [[:ru:|<span title="Russian (ru:)">Русский</span>]]</div>
+
+<div id="lang-3">
+*Hejuru y'inyandiko 100,000 : [[:ca:|<span title="Catalan (ca:)">Català</span>]] '''·''' [[:cs:|<span title="Czech (cs:)">Čeština</span>]] '''·''' [[:eo:|<span title="Esperanto (eo:)">Esperanto</span>]] '''·''' [[:hu:|<span title="Hungarian (hu:)">Magyar</span>]] '''·''' [[:no:|<span title="Norwegian, bokmål standard (no:)">Norsk (bokmål)</span>]] '''·''' [[:ro:|<span title="Romanian (ro:)">Română</span>]] '''·''' [[:sk:|<span title="Slovak (sk:)">Slovenčina</span>]] '''·''' [[:fi:|<span title="Finnish (fi:)">Suomi</span>]] '''·''' [[:sv:|<span title="Swedish (sv:)">Svenska</span>]] '''·''' [[:tr:|<span title="Turkish (tr:)">Türkçe</span>]] '''·''' [[:uk:|<span title="Ukrainian (uk:)">Українська</span>]] '''·''' {{lang|zh|[[:zh:|<span title="Chinese (zh:)">中文</span>]]}}</div>
+
+<div id="lang-2">
+*Hejuru y'inyandiko 50,000 : [[:ar:|<span title="Arabic (ar:)">العربية</span>]] '''·''' [[:id:|<span title="Indonesian (id:)">Bahasa&nbsp;Indonesia</span>]] '''·''' [[:bg:|<span title="Bulgarian (bg:)">Български</span>]] '''·''' [[:da:|<span title="Danish (da:)">Dansk</span>]] '''·''' [[:et:|<span title="Estonian (et:)">Eesti</span>]] '''·''' [[:he:|<span title="Hebrew (he:)">עברית</span>]] '''·''' [[:ko:|<span title="Korean (ko:)">한국어</span>]] '''·''' [[:lt:|<span title="Lithuanian (lt:)">Lietuvių</span>]] '''·''' [[:sl:|<span title="Slovene (sl:)">Slovenščina</span>]] '''·''' [[:sr:|<span title="Serbian (sr:)">Српски / Srpski</span>]] '''·''' [[:vi:|<span title="Vietnamese (vi:)">Tiếng Việt</span>]]</div>
+
+<div id="lang-1" >
+*Hejuru y'inyandiko 20,000 : [[:ms:|<span title="Malay (ms:)">Bahasa Melayu</span>]] '''·''' [[:bpy:|<span title="Bishnupriya Manipuri (bpy:)">ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী</span>]] '''·''' [[:br:|<span title="Breton (br:)">Brezhoneg</span>]] '''·''' [[:bs:|<span title="Bosnian (bs:)">Bosanski</span>]] '''·''' [[:el:|<span title="Greek (el:)">Ελληνικά</span>]] '''·''' [[:simple:|<span title="Simple English (simple:)">English (simple)</span>]] '''·''' [[:eu:|<span title="Basque (eu:)">Euskara</span>]] '''·''' [[:fa:|<span title="Persian (fa:)">فارسی</span>]] '''·''' [[:gl:|<span title="Galician (gl:)">Galego</span>]] '''·''' [[:hi:|<span title="Hindi (hi:)">हिन्दी</span>]] '''·''' [[:hr:|<span title="Croatian (hr:)">Hrvatski</span>]] '''·''' [[:is:|<span title="Icelandic (is:)">Íslenska</span>]] '''·''' [[:ka:|<span title="Georgian (ka:)">ქართული</span>]] '''·''' [[:la:|<span title="Latin (la:)">Latina</span>]] '''·''' [[:lb:|<span title="Luxembourgish (lb:)">Lëtzebuergesch</span>]] '''·''' [[:mr:|<span title="Marathi (mr:)">मराठी</span>]] '''.''' [[:nn:|<span title="Norwegian, nynorsk standard (nn:)">Norsk (nynorsk)</span>]] '''·''' [[:sq:|<span title="Albanian (sq:)">Shqip</span>]] '''·''' [[:th:|<span title="Thai (th:)">ไทย</span>]]</div>
+<p id="lang-coord" style="text-align:center">
+
+'''[[m:List of Wikipedias|Urutonde rwose]] · <span class="plainlinks">[http://en.wikipedia.org/wiki/Wikipedia:Multilingual_coordination Ihuzabikorwa ry'indimi nyinshi]</span>'''
+</div>
+{{#ifeq:{{FULLPAGENAME}}|Template:Wikipedialang|
+----
+Note: When adding a new language, please also update [[Template:MainPageInterwikis]].
+
+[[ar:قالب:لغات ويكيبيديا]]
+[[ca:Plantilla:Contingut Altres llengües]]
+[[es:Plantilla:Portada:Idiomas]]
+[[xal:Зура:Wikipedialang]]
+[[ia:Patrono:Altere linguas]]
+[[lbe:Template:Wikipedialang]]
+[[lo:Template:Wikipedialang]]
+[[ru:Шаблон:Wikipedialang]]
+[[sg:Template:WikipediaLang]]
+[[simple:Main Page/Other languages]]
+[[kab:Talγa:Wikipedialang]]
+[[vi:Tiêu bản:Ngôn ngữ Wikipedia]]
+[[tg:Шаблон:Википедиа ба забонҳои дигар]]
+[[yo:Template:WikipediaLang]]
+|}}
 </div><!--
 
 <---------Interwiki strapline---------->
