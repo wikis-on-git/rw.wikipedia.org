@@ -1,3 +1,4 @@
+__NOTOC__
 <div id="accueil_titre"><center><big>'''Uru rubuga ruhariwe Wikipediya mu Kinyarwanda.'''</big><br />
 <big>''Niba muvuga ikinyarwanda, iyi Nkoranya nzimbuzi nibe iyanyu.''</big><br />
 Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].</div>
@@ -77,14 +78,10 @@ Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].</div>
 <h2 class="headergris">Amakuru arambuye kuri...</h2>
 <div class="accueil_contenu">
 
-[[Gisa Rwigema]]
-
-{{#if:{{{lien|}}}|
+*[[Gisa Rwigema]]
+<!--{{#if:{{{lien|}}}|
 <div class="accueil_cadre_lien">{{{lien}}}</div>
-<nowiki />}}</div>{{#if:{{{cellule|}}}||</div>}}
-
-<div width="95%" style="text-align:left">
-
+<nowiki />}}</div>{{#if:{{{cellule|}}}||</div>}} -->
 * [[Rwanda]]
 * [[Kinyarwanda]]
 * [[Kirundi]]
@@ -102,13 +99,6 @@ Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].</div>
 * [[Yehova]]
 * [[Adamu]]
 * [[Inkoranyamagambo y'Igiholandi n'Ikinyarwanda yakozwe na Emmanuel Habumuremyi]] 
-
-External links:
-* [http://rw.kamusi.org Kinyarwanda dictionary]
-* [http://www.freelang.net/dictionary/kinyarwanda.html Kinyarwanda dictionary]
-* [http://www.bbc.co.uk/greatlakes/ BBC]
-</div>
-[http://www.wikipedia.org/ '''Mwashaka kumenya ibyisumbuye mwareba ku rubuga rukuru''']
 </div>
 
 <!-- ============================================= -->
@@ -118,8 +108,8 @@ External links:
 |}<!--
 
 -----------------------------Sections at bottom of page------------------------------>
-<div id="mp-other">
-==Ibindi bice bya Wikipediya==
+<!--<div id="mp-other">
+==Ibindi bice bya Wikipediya==-->
 </div><div id="mp-sister">
 ==Imishinga ifitanye isano na Wikipediya==
 Wikipediya icungwa na [[Wikimedia Foundation]], umuryango udaharanira inyungu ari na wo unacunga indi mishinga myinshi ya [[Wikimedia:Our_projects|projects]]:
@@ -175,10 +165,10 @@ desc none</imagemap>
 
 {{#switch:{{FULLPAGENAME}}|Special:Statistics=|Iyi Wikipediya yanditswe mu [[rurimi rw'Ikinyarwanda|Kinyarwanda]]. Kuva yatangira mu 2001, ifite kugeza ubu inyandiko zigera kuri [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles.&#32;}}Hariho izindi Wikipediya nyinshi; zimwe muri zo zigaragaraho kuba nini cyane zagaragajwe hasi aha.
 <div id="lang-4">
-*Hejuru y'inyandiko 300,000 :[[:en:|<span title="English(de:)">English</span>]] '''·'''  [[:de:|<span title="German (de:)">Deutsch</span>]] '''·''' [[:es:|<span title="Spanish (es:)">Español</span>]] '''·''' [[:fr:|<span title="French (fr:)">Français</span>]] '''·''' [[:it:|<span title="Italian (it:)">Italiano</span>]] '''·''' [[:nl:|<span title="Dutch (nl:)">Nederlands</span>]] '''·''' {{lang|ja|[[:ja:|<span title="Japanese (ja:)">日本語</span>]]}} '''·''' [[:pl:|<span title="Polish (pl:)">Polski</span>]] '''·''' [[:pt:|<span title="Portuguese (pt:)">Português</span>]] '''·''' [[:ru:|<span title="Russian (ru:)">Русский</span>]]</div>
+*Hejuru y'inyandiko 300,000 :[[:en:|<span title="English(de:)">English</span>]] '''·'''  [[:de:|<span title="German (de:)">Deutsch</span>]] '''·''' [[:es:|<span title="Spanish (es:)">Español</span>]] '''·''' [[:fr:|<span title="French (fr:)">Français</span>]] '''·''' [[:it:|<span title="Italian (it:)">Italiano</span>]] '''·''' [[:nl:|<span title="Dutch (nl:)">Nederlands</span>]] '''·''' <!--{{lang|ja|-->[[:ja:|<span title="Japanese (ja:)">日本語</span>]]<!--}}--> '''·''' [[:pl:|<span title="Polish (pl:)">Polski</span>]] '''·''' [[:pt:|<span title="Portuguese (pt:)">Português</span>]] '''·''' [[:ru:|<span title="Russian (ru:)">Русский</span>]]</div>
 
 <div id="lang-3">
-*Hejuru y'inyandiko 100,000 : [[:ca:|<span title="Catalan (ca:)">Català</span>]] '''·''' [[:cs:|<span title="Czech (cs:)">Čeština</span>]] '''·''' [[:eo:|<span title="Esperanto (eo:)">Esperanto</span>]] '''·''' [[:hu:|<span title="Hungarian (hu:)">Magyar</span>]] '''·''' [[:no:|<span title="Norwegian, bokmål standard (no:)">Norsk (bokmål)</span>]] '''·''' [[:ro:|<span title="Romanian (ro:)">Română</span>]] '''·''' [[:sk:|<span title="Slovak (sk:)">Slovenčina</span>]] '''·''' [[:fi:|<span title="Finnish (fi:)">Suomi</span>]] '''·''' [[:sv:|<span title="Swedish (sv:)">Svenska</span>]] '''·''' [[:tr:|<span title="Turkish (tr:)">Türkçe</span>]] '''·''' [[:uk:|<span title="Ukrainian (uk:)">Українська</span>]] '''·''' {{lang|zh|[[:zh:|<span title="Chinese (zh:)">中文</span>]]}}</div>
+*Hejuru y'inyandiko 100,000 : [[:ca:|<span title="Catalan (ca:)">Català</span>]] '''·''' [[:cs:|<span title="Czech (cs:)">Čeština</span>]] '''·''' [[:eo:|<span title="Esperanto (eo:)">Esperanto</span>]] '''·''' [[:hu:|<span title="Hungarian (hu:)">Magyar</span>]] '''·''' [[:no:|<span title="Norwegian, bokmål standard (no:)">Norsk (bokmål)</span>]] '''·''' [[:ro:|<span title="Romanian (ro:)">Română</span>]] '''·''' [[:sk:|<span title="Slovak (sk:)">Slovenčina</span>]] '''·''' [[:fi:|<span title="Finnish (fi:)">Suomi</span>]] '''·''' [[:sv:|<span title="Swedish (sv:)">Svenska</span>]] '''·''' [[:tr:|<span title="Turkish (tr:)">Türkçe</span>]] '''·''' [[:uk:|<span title="Ukrainian (uk:)">Українська</span>]] '''·''' <!--{{lang|zh|-->[[:zh:|<span title="Chinese (zh:)">中文</span>]]<!--}}--></div>
 
 <div id="lang-2">
 *Hejuru y'inyandiko 50,000 : [[:ar:|<span title="Arabic (ar:)">العربية</span>]] '''·''' [[:id:|<span title="Indonesian (id:)">Bahasa&nbsp;Indonesia</span>]] '''·''' [[:bg:|<span title="Bulgarian (bg:)">Български</span>]] '''·''' [[:da:|<span title="Danish (da:)">Dansk</span>]] '''·''' [[:et:|<span title="Estonian (et:)">Eesti</span>]] '''·''' [[:he:|<span title="Hebrew (he:)">עברית</span>]] '''·''' [[:ko:|<span title="Korean (ko:)">한국어</span>]] '''·''' [[:lt:|<span title="Lithuanian (lt:)">Lietuvių</span>]] '''·''' [[:sl:|<span title="Slovene (sl:)">Slovenščina</span>]] '''·''' [[:sr:|<span title="Serbian (sr:)">Српски / Srpski</span>]] '''·''' [[:vi:|<span title="Vietnamese (vi:)">Tiếng Việt</span>]]</div>
@@ -211,4 +201,6 @@ Note: When adding a new language, please also update [[Template:MainPageInterwik
 </div><!--
 
 <---------Interwiki strapline---------->
-{{MainPageInterwikis}}
+
+<!--
+{{MainPageInterwikis}} -->
