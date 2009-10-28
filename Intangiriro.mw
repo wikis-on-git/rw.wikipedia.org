@@ -179,28 +179,6 @@ desc none</imagemap>
 
 '''[[m:List of Wikipedias|Urutonde rwose]] · <span class="plainlinks">[http://en.wikipedia.org/wiki/Wikipedia:Multilingual_coordination Ihuzabikorwa ry'indimi nyinshi]</span>'''
 </div>
-{{#ifeq:{{FULLPAGENAME}}|Template:Wikipedialang|
-----
-Note: When adding a new language, please also update [[Template:MainPageInterwikis]].
-
-[[ar:قالب:لغات ويكيبيديا]]
-[[ca:Plantilla:Contingut Altres llengües]]
-[[es:Plantilla:Portada:Idiomas]]
-[[xal:Зура:Wikipedialang]]
-[[ia:Patrono:Altere linguas]]
-[[lbe:Template:Wikipedialang]]
-[[lo:Template:Wikipedialang]]
-[[ru:Шаблон:Wikipedialang]]
-[[sg:Template:WikipediaLang]]
-[[simple:Main Page/Other languages]]
-[[kab:Talγa:Wikipedialang]]
-[[vi:Tiêu bản:Ngôn ngữ Wikipedia]]
-[[tg:Шаблон:Википедиа ба забонҳои дигар]]
-[[yo:Template:WikipediaLang]]
-|}}
-</div><!--
+<!--
 
 <---------Interwiki strapline---------->
-
-<!--
-{{MainPageInterwikis}} -->
