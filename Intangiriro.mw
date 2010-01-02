@@ -1,4 +1,15 @@
 __NOTOC__
+<!-- ---------- START ---------------------------- -->
+{| cellspacing="0" width="100%" align="center" style="font-size:90%; text-align: center; margin-top:8px"
+|- valign="top" 
+| width="100%" bgcolor="#EAF5FF" |
+<!-- ---------- SECTIUNEA PORTALURILOR ---------------------------- -->
+{|id="EnWpMpBook2" style="width:100%; border: 1px solid #d1d0f5; border-bottom: 0; background-repeat: no-repeat; background-position: 0% 20%; background-color: #ffffff;"
+|style="width:30%;"|
+<div style="width:26em;margin-left:10px;margin-top:0.3em;text-align:center"><span style="font-size: 200%">Welcome on the Wikipedia!</span><br/>
+<span style="font-size: 110%">Wikipedia [[Wikipedia: Freedom | free]] in that anyone can.</span><br/>
+<span style="font-size: 100%">[[Special:Statistics|{{NUMBEROFARTICLES:R}}]] articles</span>
+
 <div id="accueil_titre"><center><big>'''Uru rubuga ruhariwe Wikipediya mu Kinyarwanda.'''</big><br />
 <big>''Niba muvuga ikinyarwanda, iyi Nkoranya nzimbuzi nibe iyanyu.''</big><br />
 Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].</div>
