@@ -1,3 +1,5 @@
+[[File:World population.PNG|thumb|400px]]
+
 Urutonde rw’ibihugu ISO 3166-1
 <br />
 <br />
@@ -65,61 +67,161 @@ Urutonde rw’ibihugu ISO 3166-1
 |-
 | [[Azeribayijani]]
 | [[ISO 3166-1 alpha-2#AZ|<tt>AZ</tt>]] || <tt>AZE</tt> || <tt>031</tt> || [[ISO 3166-2:AZ]]
+|-
+| [[Bahamasi]]
+| [[ISO 3166-1 alpha-2#BS|<tt>BS</tt>]] || <tt>BHS</tt> || <tt>044</tt> || [[ISO 3166-2:BS]]
+|-
+| [[Bahirayini]]
+| [[ISO 3166-1 alpha-2#BH|<tt>BH</tt>]] || <tt>BHR</tt> || <tt>048</tt> || [[ISO 3166-2:BH]]
+|-
+| [[Bangaladeshi]]
+| [[ISO 3166-1 alpha-2#BD|<tt>BD</tt>]] || <tt>BGD</tt> || <tt>050</tt> || [[ISO 3166-2:BD]]
+|-
+| [[Barubadosi]]
+| [[ISO 3166-1 alpha-2#BB|<tt>BB</tt>]] || <tt>BRB</tt> || <tt>052</tt> || [[ISO 3166-2:BB]]
+|-
+| [[Belarusi]]
+| [[ISO 3166-1 alpha-2#BY|<tt>BY</tt>]] || <tt>BLR</tt> || <tt>112</tt> || [[ISO 3166-2:BY]]
+|-
+| [[Belize]]
+| [[ISO 3166-1 alpha-2#BZ|<tt>BZ</tt>]] || <tt>BLZ</tt> || <tt>084</tt> || [[ISO 3166-2:BZ]]
+|-
+| [[Bene]]
+| [[ISO 3166-1 alpha-2#BJ|<tt>BJ</tt>]] || <tt>BEN</tt> || <tt>204</tt> || [[ISO 3166-2:BJ]]
+|-
+| [[Berimuda]]
+| [[ISO 3166-1 alpha-2#BM|<tt>BM</tt>]] || <tt>BMU</tt> || <tt>060</tt> || [[ISO 3166-2:BM]]
+|-
+| [[Boliviya]]
+| [[ISO 3166-1 alpha-2#BO|<tt>BO</tt>]] || <tt>BOL</tt> || <tt>068</tt> || [[ISO 3166-2:BO]]
+|-
+| "Bonaire, Saint Eustatius and Saba"
+| [[ISO 3166-1 alpha-2#BQ|<tt>BQ</tt>]] || <tt>BES</tt> || <tt>535</tt> || [[ISO 3166-2:BQ]]
+|-
+| [[Bosiniya na Herizegovina]]
+| [[ISO 3166-1 alpha-2#BA|<tt>BA</tt>]] || <tt>BIH</tt> || <tt>070</tt> || [[ISO 3166-2:BA]]
+|-
+| [[Botswana]]
+| [[ISO 3166-1 alpha-2#BW|<tt>BW</tt>]] || <tt>BWA</tt> || <tt>072</tt> || [[ISO 3166-2:BW]]
+|-
+| [[Buligariya]]
+| [[ISO 3166-1 alpha-2#BG|<tt>BG</tt>]] || <tt>BGR</tt> || <tt>100</tt> || [[ISO 3166-2:BG]]
+|-
+| [[Burezile]]
+| [[ISO 3166-1 alpha-2#BR|<tt>BR</tt>]] || <tt>BRA</tt> || <tt>076</tt> || [[ISO 3166-2:BR]]
+|-
+| [[Burukina Faso]]
+| [[ISO 3166-1 alpha-2#BF|<tt>BF</tt>]] || <tt>BFA</tt> || <tt>854</tt> || [[ISO 3166-2:BF]]
+|-
+| [[Buruneyi]]
+| [[ISO 3166-1 alpha-2#BN|<tt>BN</tt>]] || <tt>BRN</tt> || <tt>096</tt> || [[ISO 3166-2:BN]]
+|-
+| [[Butani]]
+| [[ISO 3166-1 alpha-2#BT|<tt>BT</tt>]] || <tt>BTN</tt> || <tt>064</tt> || [[ISO 3166-2:BT]]
+|-
+| [[Cade]]
+| [[ISO 3166-1 alpha-2#TD|<tt>TD</tt>]] || <tt>TCD</tt> || <tt>148</tt> || [[ISO 3166-2:TD]]
+|-
+| [[Cekiya]]
+| [[ISO 3166-1 alpha-2#CZ|<tt>CZ</tt>]] || <tt>CZE</tt> || <tt>203</tt> || [[ISO 3166-2:CZ]]
+|-
+| [[Danimarike]]
+| [[ISO 3166-1 alpha-2#DK|<tt>DK</tt>]] || <tt>DNK</tt> || <tt>208</tt> || [[ISO 3166-2:DK]]
+|-
+| [[Dominika]]
+| [[ISO 3166-1 alpha-2#DM|<tt>DM</tt>]] || <tt>DMA</tt> || <tt>212</tt> || [[ISO 3166-2:DM]]
+|-
+| [[Ekwadoro]]
+| [[ISO 3166-1 alpha-2#EC|<tt>EC</tt>]] || <tt>ECU</tt> || <tt>218</tt> || [[ISO 3166-2:EC]]
+|-
+| [[Eritereya]]
+| [[ISO 3166-1 alpha-2#ER|<tt>ER</tt>]] || <tt>ERI</tt> || <tt>232</tt> || [[ISO 3166-2:ER]]
+|-
+| [[Esipanye]]
+| [[ISO 3166-1 alpha-2#ES|<tt>ES</tt>]] || <tt>ESP</tt> || <tt>724</tt> || [[ISO 3166-2:ES]]
+|-
+| [[Esitoniya]]
+| [[ISO 3166-1 alpha-2#EE|<tt>EE</tt>]] || <tt>EST</tt> || <tt>233</tt> || [[ISO 3166-2:EE]]
+|-
+| [[Etiyopiya]]
+| [[ISO 3166-1 alpha-2#ET|<tt>ET</tt>]] || <tt>ETH</tt> || <tt>231</tt> || [[ISO 3166-2:ET]]
+|-
+| [[Fiji]]
+| [[ISO 3166-1 alpha-2#FJ|<tt>FJ</tt>]] || <tt>FJI</tt> || <tt>242</tt> || [[ISO 3166-2:FJ]]
+|-
+| [[Filipine]]
+| [[ISO 3166-1 alpha-2#PH|<tt>PH</tt>]] || <tt>PHL</tt> || <tt>608</tt> || [[ISO 3166-2:PH]]
+|-
+| [[Finilande]]
+| [[ISO 3166-1 alpha-2#FI|<tt>FI</tt>]] || <tt>FIN</tt> || <tt>246</tt> || [[ISO 3166-2:FI]]
+|-
+| [[Gabo]]
+| [[ISO 3166-1 alpha-2#GA|<tt>GA</tt>]] || <tt>GAB</tt> || <tt>266</tt> || [[ISO 3166-2:GA]]
+|-
+| [[Gambiya]]
+| [[ISO 3166-1 alpha-2#GM|<tt>GM</tt>]] || <tt>GMB</tt> || <tt>270</tt> || [[ISO 3166-2:GM]]
+|-
+| [[Gana]]
+| [[ISO 3166-1 alpha-2#GH|<tt>GH</tt>]] || <tt>GHA</tt> || <tt>288</tt> || [[ISO 3166-2:GH]]
+|-
+| [[Gerenada]]
+| [[ISO 3166-1 alpha-2#GD|<tt>GD</tt>]] || <tt>GRD</tt> || <tt>308</tt> || [[ISO 3166-2:GD]]
+|-
+| [[Geworigiya]]
+| [[ISO 3166-1 alpha-2#GE|<tt>GE</tt>]] || <tt>GEO</tt> || <tt>268</tt> || [[ISO 3166-2:GE]]
+|-
+| [[Geworugiya y’Epfo n’Ibirwa bya Sanduwice y’Epfo]]
+| [[ISO 3166-1 alpha-2#GS|<tt>GS</tt>]] || <tt>SGS</tt> || <tt>239</tt> || [[ISO 3166-2:GS]]
+|-
+| [[Giburalitari]]
+| [[ISO 3166-1 alpha-2#GI|<tt>GI</tt>]] || <tt>GIB</tt> || <tt>292</tt> || [[ISO 3166-2:GI]]
+|-
+| [[Gineya Ekwatoriyale]]
+| [[ISO 3166-1 alpha-2#GQ|<tt>GQ</tt>]] || <tt>GNQ</tt> || <tt>226</tt> || [[ISO 3166-2:GQ]]
+|-
+| [[Gineya]]
+| [[ISO 3166-1 alpha-2#GN|<tt>GN</tt>]] || <tt>GIN</tt> || <tt>324</tt> || [[ISO 3166-2:GN]]
+|-
+| [[Gineya-Biso]]
+| [[ISO 3166-1 alpha-2#GW|<tt>GW</tt>]] || <tt>GNB</tt> || <tt>624</tt> || [[ISO 3166-2:GW]]
+|-
+| [[Giyana]]
+| [[ISO 3166-1 alpha-2#GY|<tt>GY</tt>]] || <tt>GUY</tt> || <tt>328</tt> || [[ISO 3166-2:GY]]
+|-
+| [[Goronulande]]
+| [[ISO 3166-1 alpha-2#GL|<tt>GL</tt>]] || <tt>GRL</tt> || <tt>304</tt> || [[ISO 3166-2:GL]]
+|-
+| [[Guyane Nyamfaransa]]
+| [[ISO 3166-1 alpha-2#GF|<tt>GF</tt>]] || <tt>GUF</tt> || <tt>254</tt> || [[ISO 3166-2:GF]]
+|-
+| [[Gwadelupe]]
+| [[ISO 3166-1 alpha-2#GP|<tt>GP</tt>]] || <tt>GLP</tt> || <tt>312</tt> || [[ISO 3166-2:GP]]
+|-
+| [[Gwami]]
+| [[ISO 3166-1 alpha-2#GU|<tt>GU</tt>]] || <tt>GUM</tt> || <tt>316</tt> || [[ISO 3166-2:GU]]
+|-
+| [[Gwasi]]
+| [[ISO 3166-1 alpha-2#GG|<tt>GG</tt>]] || <tt>GGY</tt> || <tt>831</tt> || [[ISO 3166-2:GG]]
+|-
+| [[Gwatemala]]
+| [[ISO 3166-1 alpha-2#GT|<tt>GT</tt>]] || <tt>GTM</tt> || <tt>320</tt> || [[ISO 3166-2:GT]]
+|-
+| [[Hayiti]]
+| [[ISO 3166-1 alpha-2#HT|<tt>HT</tt>]] || <tt>HTI</tt> || <tt>332</tt> || [[ISO 3166-2:HT]]
+|-
+| [[Helena Ntagatifu]]
+| [[ISO 3166-1 alpha-2#SH|<tt>SH</tt>]] || <tt>SHN</tt> || <tt>654</tt> || [[ISO 3166-2:SH]]
+|-
+| [[Hondurasi]]
+| [[ISO 3166-1 alpha-2#HN|<tt>HN</tt>]] || <tt>HND</tt> || <tt>340</tt> || [[ISO 3166-2:HN]]
+|-
+| [[Hongiriya]]
+| [[ISO 3166-1 alpha-2#HU|<tt>HU</tt>]] || <tt>HUN</tt> || <tt>348</tt> || [[ISO 3166-2:HU]]
+|-
+| [[Hongo Kongo]]
+| [[ISO 3166-1 alpha-2#HK|<tt>HK</tt>]] || <tt>HKG</tt> || <tt>344</tt> || [[ISO 3166-2:HK]]
 
 |}
-
-
-
-* BS [[Bahamasi]]
-* BH [[Bahirayini]]
-* BD [[Bangaladeshi]]
-* BB [[Barubadosi]]
-* BY [[Belarusi]]
-* BZ [[Belize]]
-* BJ [[Bene]]
-* BM [[Berimuda]]
-* BO [[Boliviya]]
-* BA [[Bosiniya na Herizegovina]]
-* BW [[Botswana]]
-* BG [[Buligariya]]
-* BR [[Burezile]]
-* BF [[Burukina Faso]]
-* BN [[Buruneyi]]
-* BT [[Butani]]
-* TD [[Cade]]
-* CZ [[Cekiya]]
-* DK [[Danimarike]]
-* DM [[Dominika]]
-* EC [[Ekwadoro]]
-* ER [[Eritereya]]
-* ES [[Esipanye]]
-* EE [[Esitoniya]]
-* ET [[Etiyopiya]]
-* FJ [[Fiji]]
-* PH [[Filipine]]
-* FI [[Finilande]]
-* GA [[Gabo]]
-* GM [[Gambiya]]
-* GH [[Gana]]
-* GD [[Gerenada]]
-* GE [[Geworigiya]]
-* GS [[Geworugiya y’Epfo n’Ibirwa bya Sanduwice y’Epfo]]
-* GI [[Giburalitari]]
-* GQ [[Gineya Ekwatoriyale]]
-* GN [[Gineya]]
-* GY [[Giyana]]
-* GL [[Goronulande]]
-* GW [[Guneya-Biso]]
-* GF [[Guyane Nyamfaransa]]
-* GP [[Gwadelupe]]
-* GU [[Gwami]]
-* GG [[Gwasi]]
-* GT [[Gwatemala]]
-* HT [[Hayiti]]
-* SH [[Helena Ntagatifu]]
-* HN [[Hondurasi]]
-* HU [[Hongiriya]]
-* HK [[Hongo Kongo]]
 * TF [[Ibihugu by’Amajyepfo Nyamfaransa]]
 * UM [[Ibirwa Bito Bikikije Leta Zunze Ubumwe]]
 * FO [[Ibirwa bya Farowe]]
