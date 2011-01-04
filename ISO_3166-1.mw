@@ -227,6 +227,9 @@ Urutonde rw’ibihugu ISO 3166-1
 | [[Ibirwa Bito Bikikije Leta Zunze Ubumwe]]
 | [[ISO 3166-1 alpha-2#UM|<tt>UM</tt>]] || <tt>UMI</tt> || <tt>581</tt> || [[ISO 3166-2:UM]]
 |-
+| Ibirwa bya Aland
+| [[ISO 3166-1 alpha-2#AX|<tt>AX</tt>]] || <tt>ALA</tt> || <tt>248</tt> || [[ISO 3166-2:AX]]
+|-
 | [[Ibirwa bya Farowe]]
 | [[ISO 3166-1 alpha-2#FO|<tt>FO</tt>]] || <tt>FRO</tt> || <tt>234</tt> || [[ISO 3166-2:FO]]
 |-
@@ -268,97 +271,272 @@ Urutonde rw’ibihugu ISO 3166-1
 |-
 | [[Ikerene]]
 | [[ISO 3166-1 alpha-2#UA|<tt>UA</tt>]] || <tt>UKR</tt> || <tt>804</tt> || [[ISO 3166-2:UA]]
-|}   
+|-
+| [[Ikigereki]]
+| [[ISO 3166-1 alpha-2#GR|<tt>GR</tt>]] || <tt>GRC</tt> || <tt>300</tt> || [[ISO 3166-2:GR]]
+|-
+| [[Ikirwa cya Bouve]]
+| [[ISO 3166-1 alpha-2#BV|<tt>BV</tt>]] || <tt>BVT</tt> || <tt>074</tt> || [[ISO 3166-2:BV]]
+|-
+| [[Ikirwa cya Man]]
+| [[ISO 3166-1 alpha-2#IM|<tt>IM</tt>]] || <tt>IMN</tt> || <tt>833</tt> || [[ISO 3166-2:IM]]
+|-
+| [[Ikirwa cya Noheli]]
+| [[ISO 3166-1 alpha-2#CX|<tt>CX</tt>]] || <tt>CXR</tt> || <tt>162</tt> || [[ISO 3166-2:CX]]
+|-
+| [[Indonesiya]]
+| [[ISO 3166-1 alpha-2#ID|<tt>ID</tt>]] || <tt>IDN</tt> || <tt>360</tt> || [[ISO 3166-2:ID]]
+|-
+| [[Irake]]
+| [[ISO 3166-1 alpha-2#IQ|<tt>IQ</tt>]] || <tt>IRQ</tt> || <tt>368</tt> || [[ISO 3166-2:IQ]]
+|-
+| [[Irani]]
+| [[ISO 3166-1 alpha-2#IR|<tt>IR</tt>]] || <tt>IRN</tt> || <tt>364</tt> || [[ISO 3166-2:IR]]
+|-
+| [[Irigwe]]
+| [[ISO 3166-1 alpha-2#UY|<tt>UY</tt>]] || <tt>URY</tt> || <tt>858</tt> || [[ISO 3166-2:UY]]
+|-
+| [[Irilande]]
+| [[ISO 3166-1 alpha-2#IE|<tt>IE</tt>]] || <tt>IRL</tt> || <tt>372</tt> || [[ISO 3166-2:IE]]
+|-
+| [[Isilande]]
+| [[ISO 3166-1 alpha-2#IS|<tt>IS</tt>]] || <tt>ISL</tt> || <tt>352</tt> || [[ISO 3166-2:IS]]
+|-
+| [[Isirayeli]]
+| [[ISO 3166-1 alpha-2#IL|<tt>IL</tt>]] || <tt>ISR</tt> || <tt>376</tt> || [[ISO 3166-2:IL]]
+|-
+| [[Jamayika]]
+| [[ISO 3166-1 alpha-2#JM|<tt>JM</tt>]] || <tt>JAM</tt> || <tt>388</tt> || [[ISO 3166-2:JM]]
+|-
+| [[Jersey]]
+| [[ISO 3166-1 alpha-2#JE|<tt>JE</tt>]] || <tt>JEY</tt> || <tt>832</tt> || [[ISO 3166-2:JE]]
+|-
+| [[Jibuti]]
+| [[ISO 3166-1 alpha-2#DJ|<tt>DJ</tt>]] || <tt>DJI</tt> || <tt>262</tt> || [[ISO 3166-2:DJ]]
+|-
+| [[Kambodiya]]
+| [[ISO 3166-1 alpha-2#KH|<tt>KH</tt>]] || <tt>KHM</tt> || <tt>116</tt> || [[ISO 3166-2:KH]]
+|-
+| [[Kameruni]]
+| [[ISO 3166-1 alpha-2#CM|<tt>CM</tt>]] || <tt>CMR</tt> || <tt>120</tt> || [[ISO 3166-2:CM]]
+|-
+| [[Kanada]]
+| [[ISO 3166-1 alpha-2#CA|<tt>CA</tt>]] || <tt>CAN</tt> || <tt>124</tt> || [[ISO 3166-2:CA]]
+|-
+| [[Kapu Veri]]
+| [[ISO 3166-1 alpha-2#CV|<tt>CV</tt>]] || <tt>CPV</tt> || <tt>132</tt> || [[ISO 3166-2:CV]]
+|-
+| [[Katari]]
+| [[ISO 3166-1 alpha-2#QA|<tt>QA</tt>]] || <tt>QAT</tt> || <tt>634</tt> || [[ISO 3166-2:QA]]
+|-
+| [[Kazakisitani]]
+| [[ISO 3166-1 alpha-2#KZ|<tt>KZ</tt>]] || <tt>KAZ</tt> || <tt>398</tt> || [[ISO 3166-2:KZ]]
+|-
+| [[Kenya]]
+| [[ISO 3166-1 alpha-2#KE|<tt>KE</tt>]] || <tt>KEN</tt> || <tt>404</tt> || [[ISO 3166-2:KE]]
+|-
+| [[Kiba]]
+| [[ISO 3166-1 alpha-2#CU|<tt>CU</tt>]] || <tt>CUB</tt> || <tt>192</tt> || [[ISO 3166-2:CU]]
+|-
+| [[Kiribati]]
+| [[ISO 3166-1 alpha-2#KI|<tt>KI</tt>]] || <tt>KIR</tt> || <tt>296</tt> || [[ISO 3166-2:KI]]
+|-
+| [[Kirigizasitani]]
+| [[ISO 3166-1 alpha-2#KG|<tt>KG</tt>]] || <tt>KGZ</tt> || <tt>417</tt> || [[ISO 3166-2:KG]]
+|-
+| [[Kolombiya]]
+| [[ISO 3166-1 alpha-2#CO|<tt>CO</tt>]] || <tt>COL</tt> || <tt>170</tt> || [[ISO 3166-2:CO]]
+|-
+| [[Komore]]
+| [[ISO 3166-1 alpha-2#KM|<tt>KM</tt>]] || <tt>COM</tt> || <tt>174</tt> || [[ISO 3166-2:KM]]
+|-
+| [[Kongo]]
+| [[ISO 3166-1 alpha-2#CG|<tt>CG</tt>]] || <tt>COG</tt> || <tt>178</tt> || [[ISO 3166-2:CG]]
+|-
+| [[Koreya y’Amajyaruguru]]
+| [[ISO 3166-1 alpha-2#KP|<tt>KP</tt>]] || <tt>PRK</tt> || <tt>408</tt> || [[ISO 3166-2:KP]]
+|-
+| [[Koreya y’Amajyepfo]]
+| [[ISO 3166-1 alpha-2#KR|<tt>KR</tt>]] || <tt>KOR</tt> || <tt>410</tt> || [[ISO 3166-2:KR]]
+|-
+| [[Korowatiya]]
+| [[ISO 3166-1 alpha-2#HR|<tt>HR</tt>]] || <tt>HRV</tt> || <tt>191</tt> || [[ISO 3166-2:HR]]
+|-
+| [[Kosita Rika]]
+| [[ISO 3166-1 alpha-2#CR|<tt>CR</tt>]] || <tt>CRI</tt> || <tt>188</tt> || [[ISO 3166-2:CR]]
+|-
+| [[Kote Divuwari]]
+| [[ISO 3166-1 alpha-2#CI|<tt>CI</tt>]] || <tt>CIV</tt> || <tt>384</tt> || [[ISO 3166-2:CI]]
+|-
+| [[Koweti]]
+| [[ISO 3166-1 alpha-2#KW|<tt>KW</tt>]] || <tt>KWT</tt> || <tt>414</tt> || [[ISO 3166-2:KW]]
+|-
+| [[Lativiya]]
+| [[ISO 3166-1 alpha-2#LV|<tt>LV</tt>]] || <tt>LVA</tt> || <tt>428</tt> || [[ISO 3166-2:LV]]
+|-
+| [[Lawosi]]
+| [[ISO 3166-1 alpha-2#LA|<tt>LA</tt>]] || <tt>LAO</tt> || <tt>418</tt> || [[ISO 3166-2:LA]]
+|-
+| [[Lesoto]]
+| [[ISO 3166-1 alpha-2#LS|<tt>LS</tt>]] || <tt>LSO</tt> || <tt>426</tt> || [[ISO 3166-2:LS]]
+|-
+| [[Leta Zunze Ubumwe z’Amerika]]
+| [[ISO 3166-1 alpha-2#US|<tt>US</tt>]] || <tt>USA</tt> || <tt>840</tt> || [[ISO 3166-2:US]]
+|-
+| [[Libani]]
+| [[ISO 3166-1 alpha-2#LB|<tt>LB</tt>]] || <tt>LBN</tt> || <tt>422</tt> || [[ISO 3166-2:LB]]
+|-
+| [[Liberiya]]
+| [[ISO 3166-1 alpha-2#LR|<tt>LR</tt>]] || <tt>LBR</tt> || <tt>430</tt> || [[ISO 3166-2:LR]]
+|-
+| [[Libiya]]
+| [[ISO 3166-1 alpha-2#LY|<tt>LY</tt>]] || <tt>LBY</tt> || <tt>434</tt> || [[ISO 3166-2:LY]]
+|-
+| [[Lituwaniya]]
+| [[ISO 3166-1 alpha-2#LT|<tt>LT</tt>]] || <tt>LTU</tt> || <tt>440</tt> || [[ISO 3166-2:LT]]
+|-
+| [[Liyeshitensiteyine]]
+| [[ISO 3166-1 alpha-2#LI|<tt>LI</tt>]] || <tt>LIE</tt> || <tt>438</tt> || [[ISO 3166-2:LI]]
+|-
+| [[Lugizamburu]]
+| [[ISO 3166-1 alpha-2#LU|<tt>LU</tt>]] || <tt>LUX</tt> || <tt>442</tt> || [[ISO 3166-2:LU]]
+|-
+| [[Madagasikari]]
+| [[ISO 3166-1 alpha-2#MG|<tt>MG</tt>]] || <tt>MDG</tt> || <tt>450</tt> || [[ISO 3166-2:MG]]
+|-
+| [[Makawo]]
+| [[ISO 3166-1 alpha-2#MO|<tt>MO</tt>]] || <tt>MAC</tt> || <tt>446</tt> || [[ISO 3166-2:MO]]
+|-
+| [[Malawi]]
+| [[ISO 3166-1 alpha-2#MW|<tt>MW</tt>]] || <tt>MWI</tt> || <tt>454</tt> || [[ISO 3166-2:MW]]
+|-
+| [[Malesiya]]
+| [[ISO 3166-1 alpha-2#MY|<tt>MY</tt>]] || <tt>MYS</tt> || <tt>458</tt> || [[ISO 3166-2:MY]]
+|-
+| [[Mali]]
+| [[ISO 3166-1 alpha-2#ML|<tt>ML</tt>]] || <tt>MLI</tt> || <tt>466</tt> || [[ISO 3166-2:ML]]
+|-
+| [[Malidivezi]]
+| [[ISO 3166-1 alpha-2#MV|<tt>MV</tt>]] || <tt>MDV</tt> || <tt>462</tt> || [[ISO 3166-2:MV]]
+|-
+| [[Malita]]
+| [[ISO 3166-1 alpha-2#MT|<tt>MT</tt>]] || <tt>MLT</tt> || <tt>470</tt> || [[ISO 3166-2:MT]]
+|-
+| [[Maritike]]
+| [[ISO 3166-1 alpha-2#MQ|<tt>MQ</tt>]] || <tt>MTQ</tt> || <tt>474</tt> || [[ISO 3166-2:MQ]]
+|-
+| [[Maroke]]
+| [[ISO 3166-1 alpha-2#MA|<tt>MA</tt>]] || <tt>MAR</tt> || <tt>504</tt> || [[ISO 3166-2:MA]]
+|-
+| [[Masedoniya]]
+| [[ISO 3166-1 alpha-2#MK|<tt>MK</tt>]] || <tt>MKD</tt> || <tt>807</tt> || [[ISO 3166-2:MK]]
+|-
+| [[Mayanimari]] (Burma)
+| [[ISO 3166-1 alpha-2#MM|<tt>MM</tt>]] || <tt>MMR</tt> || <tt>104</tt> || [[ISO 3166-2:MM]]
+|-
+| [[Mayoti]]
+| [[ISO 3166-1 alpha-2#YT|<tt>YT</tt>]] || <tt>MYT</tt> || <tt>175</tt> || [[ISO 3166-2:YT]]
+|-
+| [[Megizike]]
+| [[ISO 3166-1 alpha-2#MX|<tt>MX</tt>]] || <tt>MEX</tt> || <tt>484</tt> || [[ISO 3166-2:MX]]
+|-
+| [[Mikoronesiya]]
+| [[ISO 3166-1 alpha-2#FM|<tt>FM</tt>]] || <tt>FSM</tt> || <tt>583</tt> || [[ISO 3166-2:FM]]
+|-
+| [[Misiri]]
+| [[ISO 3166-1 alpha-2#EG|<tt>EG</tt>]] || <tt>EGY</tt> || <tt>818</tt> || [[ISO 3166-2:EG]]
+|-
+| [[Molidova]]
+| [[ISO 3166-1 alpha-2#MD|<tt>MD</tt>]] || <tt>MDA</tt> || <tt>498</tt> || [[ISO 3166-2:MD]]
+|-
+| [[Monako]]
+| [[ISO 3166-1 alpha-2#MC|<tt>MC</tt>]] || <tt>MCO</tt> || <tt>492</tt> || [[ISO 3166-2:MC]]
+|-
+| [[Mongoliya]]
+| [[ISO 3166-1 alpha-2#MN|<tt>MN</tt>]] || <tt>MNG</tt> || <tt>496</tt> || [[ISO 3166-2:MN]]
+|-
+| [[Monserati]]
+| [[ISO 3166-1 alpha-2#MS|<tt>MS</tt>]] || <tt>MSR</tt> || <tt>500</tt> || [[ISO 3166-2:MS]]
+|-
+| [[Montenegoro]]
+| [[ISO 3166-1 alpha-2#ME|<tt>ME</tt>]] || <tt>MNE</tt> || <tt>499</tt> || [[ISO 3166-2:ME]]
+|-
+| [[Morise]]
+| [[ISO 3166-1 alpha-2#MU|<tt>MU</tt>]] || <tt>MUS</tt> || <tt>480</tt> || [[ISO 3166-2:MU]]
+|-
+| [[Moritaniya]]
+| [[ISO 3166-1 alpha-2#MR|<tt>MR</tt>]] || <tt>MRT</tt> || <tt>478</tt> || [[ISO 3166-2:MR]]
+|-
+| [[Mozambike]]
+| [[ISO 3166-1 alpha-2#MZ|<tt>MZ</tt>]] || <tt>MOZ</tt> || <tt>508</tt> || [[ISO 3166-2:MZ]]
+|-
+| [[Mutagatifu Kitsi na Nevisi]]
+| [[ISO 3166-1 alpha-2#KN|<tt>KN</tt>]] || <tt>KNA</tt> || <tt>659</tt> || [[ISO 3166-2:KN]]
+|-
+| [[Mutagatifu Lusiya (Leta)|Mutagatifu Lusiya]]
+| [[ISO 3166-1 alpha-2#LC|<tt>LC</tt>]] || <tt>LCA</tt> || <tt>662</tt> || [[ISO 3166-2:LC]]
+|-
+| [[Mutagatifu Marino]]
+| [[ISO 3166-1 alpha-2#SM|<tt>SM</tt>]] || <tt>SMR</tt> || <tt>674</tt> || [[ISO 3166-2:SM]]
+|-
+| [[Mutagatifu Petero na Mikeloni]]
+| [[ISO 3166-1 alpha-2#PM|<tt>PM</tt>]] || <tt>SPM</tt> || <tt>666</tt> || [[ISO 3166-2:PM]]
+|-
+| [[Mutagatifu Visenti na Gerenadine]]
+| [[ISO 3166-1 alpha-2#VC|<tt>VC</tt>]] || <tt>VCT</tt> || <tt>670</tt> || [[ISO 3166-2:VC]]
+|-
+| [[Namibiya]]
+| [[ISO 3166-1 alpha-2#NA|<tt>NA</tt>]] || <tt>NAM</tt> || <tt>516</tt> || [[ISO 3166-2:NA]]
+|-
+| [[Nawuru]]
+| [[ISO 3166-1 alpha-2#NR|<tt>NR</tt>]] || <tt>NRU</tt> || <tt>520</tt> || [[ISO 3166-2:NR]]
+|-
+| [[Nederilande]]
+| [[ISO 3166-1 alpha-2#NL|<tt>NL</tt>]] || <tt>NLD</tt> || <tt>528</tt> || [[ISO 3166-2:NL]]
+|-
+| [[Nepali]]
+| [[ISO 3166-1 alpha-2#NP|<tt>NP</tt>]] || <tt>NPL</tt> || <tt>524</tt> || [[ISO 3166-2:NP]]
+|-
+| [[Nigeri]]
+| [[ISO 3166-1 alpha-2#NE|<tt>NE</tt>]] || <tt>NER</tt> || <tt>562</tt> || [[ISO 3166-2:NE]]
+|-
+| [[Nigeriya]]
+| [[ISO 3166-1 alpha-2#NG|<tt>NG</tt>]] || <tt>NGA</tt> || <tt>566</tt> || [[ISO 3166-2:NG]]
+|-
+| [[Nikaragwa]]
+| [[ISO 3166-1 alpha-2#NI|<tt>NI</tt>]] || <tt>NIC</tt> || <tt>558</tt> || [[ISO 3166-2:NI]]
+|-
+| [[Niyuwe]]
+| [[ISO 3166-1 alpha-2#NU|<tt>NU</tt>]] || <tt>NIU</tt> || <tt>570</tt> || [[ISO 3166-2:NU]]
+|-
+| [[Noruveje]]
+| [[ISO 3166-1 alpha-2#NO|<tt>NO</tt>]] || <tt>NOR</tt> || <tt>578</tt> || [[ISO 3166-2:NO]]
+|-
+| [[Nuveli Kalidoniya]]
+| [[ISO 3166-1 alpha-2#NC|<tt>NC</tt>]] || <tt>NCL</tt> || <tt>540</tt> || [[ISO 3166-2:NC]]
+|-
+| [[Nuveli Zelande]]
+| [[ISO 3166-1 alpha-2#NZ|<tt>NZ</tt>]] || <tt>NZL</tt> || <tt>554</tt> || [[ISO 3166-2:NZ]]
+|-
+| [[Nyarabu Zunze Ubumwe]]
+| [[ISO 3166-1 alpha-2#AE|<tt>AE</tt>]] || <tt>ARE</tt> || <tt>784</tt> || [[ISO 3166-2:AE]]
+|-
+| [[Omani]]
+| [[ISO 3166-1 alpha-2#OM|<tt>OM</tt>]] || <tt>OMN</tt> || <tt>512</tt> || [[ISO 3166-2:OM]]
+|-
+| [[Ositaraliya]]
+| [[ISO 3166-1 alpha-2#AU|<tt>AU</tt>]] || <tt>AUS</tt> || <tt>036</tt> || [[ISO 3166-2:AU]]
+|-
+| [[Ositiriya]]
+| [[ISO 3166-1 alpha-2#AT|<tt>AT</tt>]] || <tt>AUT</tt> || <tt>040</tt> || [[ISO 3166-2:AT]]
+|-
+| [[Pakisitani]]
+| [[ISO 3166-1 alpha-2#PK|<tt>PK</tt>]] || <tt>PAK</tt> || <tt>586</tt> || [[ISO 3166-2:PK]]
+|-
+| [[Palawu]]
+| [[ISO 3166-1 alpha-2#PW|<tt>PW</tt>]] || <tt>PLW</tt> || <tt>585</tt> || [[ISO 3166-2:PW]]
 
-* GR [[Ikigereki]]
-* BV [[Ikirwa cya Bouve]]
-* IM [[Ikirwa cya Man]]
-* CX [[Ikirwa cya Noheli]]
-* ID [[Indonesiya]]
-* IQ [[Irake]]
-* IR [[Irani]]
-* UY [[Irigwe]]
-* IE [[Irilande]]
-* IS [[Isilande]]
-* IL [[Isirayeli]]
-* JM [[Jamayika]]
-* JE [[Jersey]]
-* DJ [[Jibuti]]
-* KH [[Kambodiya]]
-* CM [[Kameruni]]
-* CA [[Kanada]]
-* CV [[Kapu Veri]]
-* QA [[Katari]]
-* KZ [[Kazakisitani]]
-* KE [[Kenya]]
-* CU [[Kiba]]
-* KI [[Kiribati]]
-* KG [[Kirigizasitani]]
-* CO [[Kolombiya]]
-* KM [[Komore]]
-* CG [[Kongo]]
-* KP [[Koreya y’Amajyaruguru]]
-* KR [[Koreya y’Amajyepfo]]
-* HR [[Korowatiya]]
-* CR [[Kosita Rika]]
-* KO [[Kosovo]]
-* CI [[Kote Divuwari]]
-* KW [[Koweti]]
-* LV [[Lativiya]]
-* LA [[Lawosi]]
-* LS [[Lesoto]]
-* US [[Leta Zunze Ubumwe z’Amerika]]
-* LB [[Libani]]
-* LR [[Liberiya]]
-* LY [[Libiya]]
-* LT [[Lituwaniya]]
-* LI [[Liyeshitensiteyine]]
-* LU [[Lugizamburu]]
-* MG [[Madagasikari]]
-* MO [[Makawo]]
-* MW [[Malawi]]
-* MY [[Malesiya]]
-* ML [[Mali]]
-* MV [[Malidivezi]]
-* MT [[Malita]]
-* MQ [[Maritike]]
-* MA [[Maroke]]
-* MK [[Masedoniya]]
-* MM [[Mayanimari (Burma)]]
-* YT [[Mayoti]]
-* MX [[Megizike]]
-* FM [[Mikoronesiya]]
-* EG [[Misiri]]
-* MD [[Molidova]]
-* MC [[Monako]]
-* MN [[Mongoliya]]
-* MS [[Monserati]]
-* ME [[Montenegoro]]
-* MU [[Morise]]
-* MR [[Moritaniya]]
-* MZ [[Mozambike]]
-* KN [[Mutagatifu Kitsi na Nevisi]]
-* LC [[Mutagatifu Lusiya (Leta)|Mutagatifu Lusiya]]
-* SM [[Mutagatifu Marino]]
-* PM [[Mutagatifu Petero na Mikeloni]]
-* VC [[Mutagatifu Visenti na Gerenadine]]
-* NA [[Namibiya]]
-* NR [[Nawuru]]
-* NL [[Nederilande]]
-* NP [[Nepali]]
-* NE [[Nigeri]]
-* NG [[Nigeriya]]
-* NI [[Nikaragwa]]
-* NU [[Niyuwe]]
-* NO [[Noruveje]]
-* NC [[Nuveli Kalidoniya]]
-* NZ [[Nuveli Zelande]]
-* AE [[Nyarabu Zunze Ubumwe]]
-* OM [[Omani]]
-* AU [[Ositaraliya]]
-* AT [[Ositiriya]]
-* PK [[Pakisitani]]
-* PW [[Palawu]]
+|}    
 * PA [[Panama]]
 * PG [[Papuwa Nuveli Gineya]]
 * PY [[Paragwe]]
@@ -434,6 +612,7 @@ Urutonde rw’ibihugu ISO 3166-1
 * ZR [[Zayire]]
 * ZW [[Zimbabwe]]
 * '''AN''' [[Antiye za Nederilande]]
+* KO [[Kosovo]]
 
 [[Category:Ibihugu]]
 
