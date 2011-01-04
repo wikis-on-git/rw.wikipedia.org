@@ -16,7 +16,7 @@
 
 {| class="wikitable sortable"
 |-
-! Code !! umubare !! faranga rizamo !! ibihugu
+! itegekongenga !! umubare !! faranga rizamo !! ibihugu
 |-
 | AED || 784 || [[Idiramu UAE]] || [[Nyarabu Zunze Ubumwe]]
 |-
@@ -64,7 +64,7 @@
 |-
 | BTN || 064 || [[Ingulutirumu rya Butani]] || [[Butani]]
 |-
-| BWP || 072 || [[Pula]] || [[Botswana]]
+| BWP || 072 || [[Ipula rya Botswana]] || [[Botswana]]
 |-
 | BYR || 974 || [[Irubule rya Belarusi]]|| [[Belarusi]]
 |-
@@ -144,9 +144,9 @@
 |-
 | HTG || 332 || [[Igurude rya Hayiti]] || [[Hayiti]]
 |-
-| HUF || 348 || . || [[Hongiriya]]
+| HUF || 348 || [[Iforenti rya Hongiriya]] || [[Hongiriya]]
 |-
-| IDR || 360 || . || [[Indonesiya]]
+| IDR || 360 || [[Irupi rya Indonesiya]] || [[Indonesiya]]
 |-
 | ILS || 376 || [[Ishekeli rya Isirayeli]] || [[Isirayeli]]
 |-
@@ -166,9 +166,9 @@
 |-
 | KES || 404 || [[Ishilingi rya Kenya]] || [[Kenya]]
 |-
-| KGS || 417 || . || [[Kirigizasitani]]
+| KGS || 417 || [[Isomu rya Kirigizasitani]] || [[Kirigizasitani]]
 |-
-| KHR || 116 || . || [[Kambodiya]]
+| KHR || 116 || [[Iriyeli rya Kamboji]] || [[Kambodiya]]
 |-
 | KMF || 174 || [[Ifaranga rya Komore]] || [[Komore]]
 |-
@@ -180,7 +180,7 @@
 |-
 | KYD || 136 || [[Idolari ry’Ibirwa bya Kayimani]] || [[Ibirwa bya Kayimani]]
 |-
-| KZT || 398 || [[Ilewone]] || [[Kazakisitani]]
+| KZT || 398 || [[Itenge rya Kazakisitani]] || [[Kazakisitani]]
 |-
 | LAK || 418 || [[Ikipu rya Lawosi]] || [[Lawosi]]
 |-
@@ -190,7 +190,7 @@
 |-
 | LRD || 430 || [[Idolari rya Liberiya]] || [[Liberiya]]
 |-
-| LSL || 426 || . || [[Lesoto]]
+| LSL || 426 || [[Iloti rya Lesoto]] || [[Lesoto]]
 |-
 | LTL || 440 || [[Ilitasi rya Lituwaniya]] || [[Lituwaniya]]
 |-
@@ -206,13 +206,13 @@
 |-
 | MKD || 807 || [[Idenari rya Masedoniya]] || [[Masedoniya]]
 |-
-| MMK || 104 || . || [[Mayanimari]]
+| MMK || 104 || [[Ikiyati rya Mayanimari]] || [[Mayanimari]]
 |-
-| MNT || 496 || . || [[Mongoliya]]
+| MNT || 496 || [[Ituguriki rya Mongoliya]] || [[Mongoliya]]
 |-
 | MOP || 446 || [[Ipataka rya Makawo]] || [[Makawo]] 
 |-
-| MRO || 478 || . || [[Moritaniya]]
+| MRO || 478 || [[Ugwiya rya Moritaniya]] || [[Moritaniya]]
 |-
 | MUR || 480 || [[Irupi ry’Ibirwa bya Morise]] || [[Morise]]
 |-
@@ -376,7 +376,7 @@
 == Obsolete currency codes ==
 {| class="wikitable sortable"
 |-
-! "Code" !! umubare !! faranga rizamo !! "From" !! "Until" !! "Replaced by"
+! itegekongenga !! umubare !! faranga rizamo !! "From" !! "Until" !! "Replaced by"
 |-
 | ADF || ... || [[Ifaranga ry’Urwanda]] || ? || 1999-01-01 || EUR 
 |-
@@ -392,7 +392,7 @@
 |-
 | DEM || 276 || [[Imarike ry’Ubudage]] || 1948 || 1999-01-01 || EUR
 |-
-| EEK || 223 || . || 1992 || 2011-01-01 || EUR 
+| EEK || 223 || [[Ikorone rya Esitoniya]] || 1992 || 2011-01-01 || EUR 
 |-
 | ESP || 724 || [[Ipeseta rya Esipanye]] || 1869 || 1999-01-01 || EUR 
 |-
@@ -490,7 +490,7 @@
 |-
 | ISJ || ... || [[Ikorona Rishaje rya Isilande]] || ? || 1981 || ISK 
 |-
-| LAJ || ... || [[Ikipu rya Lawosi]] || ? || 1979 || LAK 
+| LAJ || ... || [[Ikipu rya Lawosi]] (Ipoto poli rya Lawosi) || ? || 1979 || LAK 
 |-
 | MGF || 450 || [[Ifaranga rya Madagasikari]] || 1963-07-01 || 2005-01-01 || MGA 
 |-
