@@ -1,20 +1,75 @@
 Urutonde rw’ibihugu ISO 3166-1
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-* '''AF''' [[Afuganisitani]]
-* '''ZA''' [[Afurika y’Epfo]]
-* '''DZ''' [[Aligeriya]]
-* '''AL''' [[Alubaniya]]
-* '''AD''' [[Andora]]
-* '''AO''' [[Angola]]
-* '''AI''' [[Angwiya]]
-* '''AQ''' [[Antarigitika]]
-* '''AG''' [[Antigwa na Baribuda]]
-* '''AN''' [[Antiye za Nederilande]]
-* '''SA''' [[Arabiya Sawudite]]
-* '''AR''' [[Arijantina]]
-* '''AW''' [[Aruba]]
-* '''AM''' [[Arumeniya]]
-* '''AZ''' [[Azeribayijani]]
+{| class="wikitable sortable"
+|-
+! izina
+! itegekongenga Alpha-2
+! itegekongenga Alpha-3
+! itegekongenga ry’umubare
+! itegekongenga [[ISO 3166-2]] 
+|-
+| [[Afuganisitani]]
+| [[ISO 3166-1 alpha-2#AF|<tt>AF</tt>]] || <tt>AFG</tt> || <tt>004</tt> || [[ISO 3166-2:AF]]
+|-
+| [[Afurika y’Epfo]]
+| [[ISO 3166-1 alpha-2#ZA|<tt>ZA</tt>]] || <tt>ZAF</tt> || <tt>710</tt> || [[ISO 3166-2:ZA]]
+|-
+| [[Aligeriya]]
+| [[ISO 3166-1 alpha-2#DZ|<tt>DZ</tt>]] || <tt>DZA</tt> || <tt>012</tt> || [[ISO 3166-2:DZ]]
+|-
+| [[Alubaniya]]
+| [[ISO 3166-1 alpha-2#AL|<tt>AL</tt>]] || <tt>ALB</tt> || <tt>008</tt> || [[ISO 3166-2:AL]]
+|-
+| [[Andora]]
+| [[ISO 3166-1 alpha-2#AD|<tt>AD</tt>]] || <tt>AND</tt> || <tt>020</tt> || [[ISO 3166-2:AD]]
+|-
+| [[Angola]]
+| [[ISO 3166-1 alpha-2#AO|<tt>AO</tt>]] || <tt>AGO</tt> || <tt>024</tt> || [[ISO 3166-2:AO]]
+|-
+| [[Angwiya]]
+| [[ISO 3166-1 alpha-2#AI|<tt>AI</tt>]] || <tt>AIA</tt> || <tt>660</tt> || [[ISO 3166-2:AI]]
+|-
+| [[Antarigitika]]
+| [[ISO 3166-1 alpha-2#AQ|<tt>AQ</tt>]] || <tt>ATA</tt> || <tt>010</tt> || [[ISO 3166-2:AQ]]
+|-
+| [[Antigwa na Baribuda]]
+| [[ISO 3166-1 alpha-2#AG|<tt>AG</tt>]] || <tt>ATG</tt> || <tt>028</tt> || [[ISO 3166-2:AG]]
+|-
+| [[Arabiya Sawudite]]
+| [[ISO 3166-1 alpha-2#SA|<tt>SA</tt>]] || <tt>SAU</tt> || <tt>682</tt> || [[ISO 3166-2:SA]]
+|-
+| [[Arijantina]]
+| [[ISO 3166-1 alpha-2#AR|<tt>AR</tt>]] || <tt>ARG</tt> || <tt>032</tt> || [[ISO 3166-2:AR]]
+|-
+| [[Aruba]]
+| [[ISO 3166-1 alpha-2#AW|<tt>AW</tt>]] || <tt>ABW</tt> || <tt>533</tt> || [[ISO 3166-2:AW]]
+|-
+| [[Arumeniya]]
+| [[ISO 3166-1 alpha-2#AM|<tt>AM</tt>]] || <tt>ARM</tt> || <tt>051</tt> || [[ISO 3166-2:AM]]
+|-
+| [[Azeribayijani]]
+| [[ISO 3166-1 alpha-2#AZ|<tt>AZ</tt>]] || <tt>AZE</tt> || <tt>031</tt> || [[ISO 3166-2:AZ]]
+
+|}
+
+
+
 * BS [[Bahamasi]]
 * BH [[Bahirayini]]
 * BD [[Bangaladeshi]]
@@ -244,6 +299,7 @@ Urutonde rw’ibihugu ISO 3166-1
 * ZM [[Zambiya]]
 * ZR [[Zayire]]
 * ZW [[Zimbabwe]]
+* '''AN''' [[Antiye za Nederilande]]
 
 [[Category:Ibihugu]]
 
