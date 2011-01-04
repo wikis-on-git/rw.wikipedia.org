@@ -374,6 +374,201 @@
 |}
 
 == Obsolete currency codes ==
+{| class="wikitable sortable"
+|-
+! "Code" !! umubare !! faranga rizamo !! "From" !! "Until" !! "Replaced by"
+|-
+| ADF || ... || [[Ifaranga ry’Urwanda]] || ? || 1999-01-01 || EUR 
+|-
+| ADP || 020 || [[Ipeseta ry’Andora]]  || ? || 1999-01-01 || EUR 
+|-
+| ATS || 040 || [[Ishilingi rya Ositiriya]] || 1945 || 1999-01-01 || EUR 
+|-
+| AHK || 040 || [[Austro-Hungarian krone]] || 1892 || 1921 || CSK 
+|-
+| BEF || 056 || [[Ifaranga Mutungo ry’Ububiligi]] || 1832 || 1999-01-01 || EUR 
+|-
+| CYP || 196 || [[Ipawundi rya Shipure]] || 1879 || 2008-01-01 || EUR 
+|-
+| DEM || 276 || [[Imarike ry’Ubudage]] || 1948 || 1999-01-01 || EUR
+|-
+| EEK || 223 || . || 1992 || 2011-01-01 || EUR 
+|-
+| ESP || 724 || [[Ipeseta rya Esipanye]] || 1869 || 1999-01-01 || EUR 
+|-
+| FIM || 246 || [[Imarika rya Finilande]] || 1860 || 1999-01-01 || EUR 
+|-
+| FRF || 250 || [[Ifaranga ry’Ubufaransa]] || 1960 || 1999-01-01 || EUR 
+|-
+| GRD || 300 || [[Idarakuma ry’Ubugereki]] || 1954 || 2001-01-01 || EUR 
+|-
+| GGK || 300 || . || 1873 || 1922 || GPM 
+|-
+| GPM || 300 || . || 1922 || 1923 || GRM 
+|-
+| IEP || 372 || [[Ipawundi rya Irilande]] || 1938 || 1999-01-01 || EUR 
+|-
+| ITL || 380 || [[Ilira ry’Ubutaliyani]] || 1861 || 1999-01-01 || EUR 
+|-
+| LUF || 442 || [[Ifaranga rya Lugizamburu]] || 1944 || 1999-01-01 || EUR 
+|-
+| MCF || ... || . || 1960 || 1999-01-01 || EUR 
+|-
+| MAF || ... || [[Idiramu rya Maroke]]  || 1921 || 1960–1976 || MAD 
+|-
+| MTL || 470 || [[Ilira rya Malita]] || || 2008-01-01 || EUR 
+|-
+| NLG || 528 || [[Igwilida rya Nederilande]] || 1810s || 1999-01-01 || EUR 
+|-
+| PTE || 620 || [[Esikudo rya Porutigali]] || 1911-05-22 || 1999-01-01 || EUR 
+|-
+| SIT || 705 || [[Itolari rya Siloveniya]] || 1991-10-08 || 2007-01-01 || EUR 
+|-
+| SKK || 703 || [[Ikoruna rya Silovakiya]]  || 1993-02-08 || 2009-01-01 || EUR 
+|-
+| SML || ... || . || 1864 || 1999-01-01 || EUR 
+|-
+| VAL || ... || . || 1929 || 1999-01-01 || EUR 
+|-
+| XEU || 954 || [[Urugero rw’Ifaranga ry’Iburayi ECU]] || ? || 1999-01-01 || EUR 
+|-
+| AFA || 004 || . || 1925 || 2003 || AFN 
+|-
+| AON || 024 || [[Ikwanza Lishya ry’Angola]] || 1990 || 1995 || AOR 
+|-
+| AOR || 982 || [[Ikwanza Ritunganijwe ry’Angola]] || 1995 || 1999 || AOA 
+|-
+| ARL || ... || [[Ipezo ry’Arijantine]] || 1970-01-01 || 1983-05-05 || ARP 
+|-
+| ARP || ... || [[Ipezo ry’Arijantine]] || 1983-06-06 || 1985-06-14 || ARA 
+|-
+| ARA || ... || [[Ositarali rya Arijantine]] || 1985-06-15 || 1991-12-31 || ARS 
+|-
+| AZM || 031 || [[Imanati Nyazeribayijani]] || 1992-08-15 || 2006-01-01 || AZN 
+|-
+|BDT  ||     || . || February 1972 || Still in use||
+|-
+| BGL || 100 || Ilevi A/52 rya Bulugariya || 1962 || 1999-07-05 || BGN 
+|-
+| BOP || ... || [[Ipezo rya Boliviya]] || 1963-01-01 || 1987-01-01 || BOB 
+|-
+| BRB || ... || [[Ikuruzeyiro rya Burezile]] || 1967 || 1986 || BRC 
+|-
+| BRC || ... || [[Ikuruzado rya Burezile]] || 1986 || 1989 || BRN 
+|-
+| BRE || ... || [[Ikuruzeyiro rya Burezile]] || 1990 || 1993 || BRR 
+|-
+| BRN || ... || [[Ikuruzado Rishya rya Burezile]] || 1989-01-15 || 1990-03-15 || BRE 
+|-
+| BRR || ... || [[Ikuruzeyiro Rili rya Burezile]] || 1993-08-01 || 1994 || BRL 
+|-
+| CSD || 891 || [[Idenari rya Seribiya]] || 2003-07-03 || 2006 || RSD 
+|-
+| CSK || 200 || [[Ikorona A/53 rya Cekosilovakiya]] || ? || 1993-02-08 || CZK na SKK 
+|-
+| DDM || 278 || [[Imarike rya DDR]] || 1948-06-21 || 1990-07-01 || DEM 
+|-
+| ECS || 218 || [[Isukari rya Ekwadoro]] || ? || 2000 || USD 
+|-
+| ECV || 983 || [[Urugero rw’Agaciro Ndahinduka UVC]] || 1993 || 2000-01-09 || - 
+|-
+| GQE || ... || [[Ekwele rya Gineya Ekwatoriyale]] || 1975 || 1985 || XAF 
+|-
+| ESA || 996 || Ipeseta rya Esipanye (Konte ’A’)|| ? || ? || ESP 
+|-
+| ESB || 995 || Ipeseta rya Esipanye (rihindurwa) || ? || ? || ESP 
+|-
+| GNE || ... || [[Isili rya Gineya]] || 1971 || 1985 || GNF 
+|-
+| GHC || 288 || . || 1967 || 2007-07-01 || GHS 
+|-
+| GWP || 624 || [[Ipezo rya Gineya-Biso]] || 1975 || 1997 || XOF 
+|-
+| ILP || ... || [[Ipawundi rya Isirayeli]] || 1948 || 1980 || ILR 
+|-
+| ILR || ... || [[Ishekeli Rishaje rya Isirayeli]] || 1980-02-24 || 1985-12-31 || ILS 
+|-
+| ISJ || ... || [[Ikorona Rishaje rya Isilande]] || ? || 1981 || ISK 
+|-
+| LAJ || ... || [[Ikipu rya Lawosi]] || ? || 1979 || LAK 
+|-
+| MGF || 450 || [[Ifaranga rya Madagasikari]] || 1963-07-01 || 2005-01-01 || MGA 
+|-
+| MKN || ... || . || ? || 1993 || MKD 
+|-
+| MLF || ... || [[Ifaranga rya Mali]] || ? || 1984 || XOF 
+|-
+| MVQ || ... || [[Irupi rya Malidivezi]] || ? || 1981 || MVR 
+|-
+| MXP || ... || . || ? || 1993 || MXN 
+|-
+| MZM || 508 || [[Imetikale rya Mozambike]] || 1980 || 2006-06-30 || MZN
+|-
+| NFD || ...  || . || 1865 || 1949 || CAD
+|-
+| PEH || ... || [[Isolu rya Peru]] || 1863 || 1985-02-01 || PEI 
+|-
+| PEI || ... || [[Inti rya Peru]] || 1985-02-01 || 1991-10-01 || PEN 
+|-
+| PLZ || 616 || [[Iziloti rya Polonye]] A/94 || ? || 1995 || PLN 
+|-
+| ROL || 642 || [[Ilewu rya Romaniya]] A/05 || 1952-01-28 || 2005 || RON 
+|-
+| RUR || 810 || [Irubule ry’Uburusiya]] || 1992 || 1997-12-31 || RUB 
+|-
+| SDD || 736 || . || 1992-06-08 || 2007-01-10 || SDG 
+|-
+| SRG || 740 || [[Igwilida rya Suriname]] || ? || 2004 || SRD 
+|-
+| SUR || ... || [[Irubule rya USSR]] || 1961 || 1991 || RUR 
+|-
+| SVC || 222 || [[Ikoloni rya Eli Saluvadoro]] || 1892 || 2001 || USD 
+|-
+| TJR || 762 || [[Irubule rya Tajiki]] || 1995-05-10 || 2000-10-30 || TJS 
+|-
+| TMM || 795 || [[Imanati rya Turikimenisitani]] || 1993-11-01 || 2008-12-31 || TMT 
+|-
+| TRL || 792 || [[Ilira rya Turukiya]] A/05 || ? || 2005 || TRY 
+|-
+| UAK || 804 || [[Ikaribovaneti rya Ukerene]] || ? || 1996-09-02 || UAH 
+|-
+| UGS || ... || [[Ishilingi rya Yuganda]] || ? || 1987 || UGX 
+|-
+| UYN || ... || [[Ipezo Rishaje rya Irigwe]] || ? || 1993-03-01 || UYU 
+|-
+| VEB || 862 || [[Ibolivari rya Venezuwela]] || ? || 2008-01-01 || VEF 
+|-
+| XFO || ... || [[Ifaranga-Zahabu]] || ? || 2003 || XDR 
+|-
+| YDD || 720 || [[Idenari rya Yemeni]] || ? || 1996-06-11 || YER 
+|-
+| YUD || ... || [[Idenari rya Yugosilaviya]] || 1966-01-01 || 1989-12-31 || YUN 
+|-
+| YUN || ... || [[Idenari rya Yugosilaviya]] || 1990-01-01 || 1992-06-30 || YUR 
+|-
+| YUR || ... || [[Idenari rya Yugosilaviya]] || 1992-07-01 || 1993-09-30 || YUO 
+|-
+| YUO || ... || [[Idenari rya Yugosilaviya]] || 1993-10-01 || 1993-12-31 || YUG 
+|-
+| YUG || ... || [[Idenari rya Yugosilaviya]] || 1994-01-01 || 1994-01-23 || YUM 
+|-
+| YUM || 891 || [[Idenari rya Yugosilaviya]] || 1994-01-24 || 2003-07-02 || CSD 
+|-
+| ZAL || 991 || [[Irande Mutungo rya Afurika y’Epfo]] || 1985-09-01 || 1995-03-13 || - 
+|-
+| ZRN || 180 || [[Izayire Rishya]] || 1993 || 1997 || CDF 
+|-
+| ZRZ || ... || [[Izayire]] || 1967 || 1993 || ZRN 
+|-
+| ZWC || ... || . || 1970-02-17 || 1980 || ZWD 
+|-
+| ZWD || 716 || [[Idolari rya Zimbabwe]] A/06 || 1980-04-18 || 2006-07-31 || ZWN 
+|-
+| ZWN || 942 || [[Idolari rya Zimbabwe]] A/08 || 2006-08-01 || 2008-07-31 || ZWR 
+|-
+| ZWR || 935 || [[Idolari rya Zimbabwe]] A/09 || 2008-08-01 || 2009-02-02 || ZWL 
+|}
+
 
 [[Category:Ubukungu]]
 
