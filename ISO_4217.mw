@@ -1,0 +1,372 @@
+'''ISO 4217'''
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+== Active codes ==
+
+{| class="wikitable sortable"
+|-
+! Code !! umubare !! Currency !! ibihugu
+|-
+| AED || 784 || [[Idiramu UAE]] || [[Nyarabu Zunze Ubumwe]]
+|-
+| AFN || 971 || [[Afugani ]] || [[Afuganisitani]]
+|-
+| ALL || 008 || [[Albanian lek]] || [[Alubaniya]]
+|-
+| AMD || 051 || [[Idiramu rya Arumeniya]] || [[Arumeniya]]
+|-
+| ANG || 532 || [[Igwilida Antiye Nederilande]] || [[Curaçao]], [[Sint Maarten]]
+|-
+| AOA || 973 || [[Ikwanza ry’Angola]] || [[Angola]]
+|-
+| ARS || 032 || [[Ipezo ry’Arijantine]] || [[Arijantina]]
+|-
+| AUD || 036 || [[Idolari rya Ositaraliya]] || [[Ositaraliya]], [[Kiribati]], [[Nawuru]], [[Norfolk Island]], [[Tuvalu]]
+|-
+| AWG || 533 || [[Igwilida Nyarubani]] || [[Aruba]]
+|-
+| AZN || 944 || [[Imanati Nyazeribayijani]] || [[Azeribayijani]]
+|-
+| BAM || 977 || [[Amamarike Ahindurwa]] || [[Bosiniya na Herizegovina]]
+|-
+| BBD || 052 || [[Idolari rya Barubadosi]] || [[Barubadosi]]
+|-
+| BDT || 050 || [[Itaka Nyabangaladeshi]] || [[Bangaladeshi]]
+|-
+| BGN || 975 || [[Ilevi Nyabulugariya]] || [[Buligariya]]
+|-
+| BHD || 048 || [[Idenari rya Bahireyini]] || [[Bahirayini]]
+|-
+| BIF || 108 || [[Ifaranga ry’Uburundi]] || [[Uburundi]]
+|-
+| BMD || 060 || [[Idolari rya Berimuda]] || [[Berimuda]]
+|-
+| BND || 096 || [[Idorali rya Buruneyi]] || [[Buruneyi]], [[Singapore]]
+|-
+| BOB || 068 || [[Boliviyano]] || [[Boliviya]]
+|-
+| BOV || 984 || Muvidole Nyaboliviya|| [[Boliviya]]
+|-
+| BRL || 986 || [[Irili rya Burezile]] || [[Burezile]]
+|-
+| BSD || 044 || [[Idolari rya Bahamasi]] || [[Bahamasi]]
+|-
+| BTN || 064 || [[Ingulutirumu rya Butani]] || [[Butani]]
+|-
+| BWP || 072 || [[Pula]] || [[Botswana]]
+|-
+| BYR || 974 || [[Irubule rya Belarusi]]|| [[Belarusi]]
+|-
+| BZD || 084 || [[Idolari rya Belize]] || [[Belize]]
+|-
+| CAD || 124 || [[Idolari rya Kanada]] || [[Kanada]]
+|-
+| CDF || 976 || [[Ifaranga rya Kongo]] || [[Repubulika Iharanira Demokarasi ya Kongo]]
+|-
+| CHE || 947 || [[Ero]] || [[Ubusuwisi]]
+|-
+| CHF || 756 || [[Ifaranga ry’Ubusuwisi]] || [[Ubusuwisi]], [[Liyeshitensiteyine]]
+|-
+| CHW || 948 || || [[Ubusuwisi]]
+|-
+| CLF || 990 || [[Unidadesi ya fomento]] || [[Shili]]
+|-
+| CLP || 152 || [[Ipezo rya Shili]] || [[Shili]]
+|-
+| CNY || 156 || [[Iyeni Reniminibi ry’Ubushinwa]] || [[Ubushinwa]] 
+|-
+| COP || 170 || [[Ipezo rya Kolombiya]] || [[Kolombiya]]
+|-
+| COU || 970 || [[Urugero rw’Agaciro Ndahinduka UVC]] || [[Kolombiya]]
+|-
+| CRC || 188 || [[Ikoloni rya Cosita Rika]] || [[Kosita Rika]]
+|-
+| CUC || 931 || [[Ipezo rya Kiba]] || [[Kiba]]
+|-
+| CUP || 192 || [[Ipezo rya Kiba]] || [[Kiba]]
+|-
+| CVE || 132 || [[Esikudo rya Kapu Veride]] || [[Kapu Veri]]
+|-
+| CZK || 203 || [[Ikoruna rya Ceke]] || [[Cekiya]]
+|-
+| DJF || 262 || [[Ifaranga rya Jibuti]] || [[Jibuti]]
+|-
+| DKK || 208 || [[Ikorone rya Danemarike]] || [[Danimarike]], [[Ibirwa bya Farowe]], [[Goronulande]]
+|-
+| DOP || 214 || [[Ipezo rya Dominika]] || [[Repubulika ya Dominikani]]
+|-
+| DZD || 012 || [[Idenari rya Aligeriya]] || [[Aligeriya]]
+|-
+| EGP || 818 || [[Ipawundi rya Misiri]] || [[Misiri]]
+|-
+| ERN || 232 || [[Nakfa rya Eritereya]] || [[Eritereya]]
+|-
+| ETB || 230 || [[Ibiri rya Etiyopiya]] || [[Etiyopiya]]
+|-
+| EUR || 978 || [[Ero]] ||  [[Umuryango w’Ubumwe bw’Ibihugu by’i Burayi]] , [[Andora]], [[Kosovo]], [[Monako]], [[Montenegoro]], [[Mutagatifu Marino]], [[Vatikani]]
+|-
+| FJD || 242 || [[Idolari Fiji]] || [[Fiji]]
+|-
+| FKP || 238 || [[Ipawundi by’Ibirwa bya Falukilande]] || [[Ibirwa bya Folukilande]]
+|-
+| GBP || 826 || [[Ipawundi Siterilingi]] || [[Ubwongereza]], ([[Geworugiya y’Epfo n’Ibirwa bya Sanduwice y’Epfo]])
+|-
+| GEL || 981 || . || [[Geworigiya]]   
+|-
+| GHS || 936 || . || [[Gana]]
+|-
+| GIP || 292 || [[Ipawundi rya Giburalitari]] || [[Giburalitari]]
+|-
+| GMD || 270 || [[Idalasi rya Gambiya]] || [[Gambiya]]
+|-
+| GNF || 324 || [[Ifaranga rya Gineya]] || [[Gineya]]
+|-
+| GTQ || 320 || . || [[Gwatemala]]
+|-
+| GYD || 328 || [[Idolari rya Guyana]] || [[Giyana]]
+|-
+| HKD || 344 || [[Idolari Hongo Kongo]] || [[Hongo Kongo]]
+|-
+| HNL || 340 || [[Ilempira rya Hondurasi]] || [[Hondurasi]]
+|-
+| HRK || 191 || [[Ikuna rya Korowasiya]] || [[Korowatiya]]
+|-
+| HTG || 332 || [[Igurude rya Hayiti]] || [[Hayiti]]
+|-
+| HUF || 348 || . || [[Hongiriya]]
+|-
+| IDR || 360 || . || [[Indonesiya]]
+|-
+| ILS || 376 || [[Ishekeli rya Isirayeli]] || [[Isirayeli]]
+|-
+| INR || 356 || [[Rupi ry’Ubuhinde]] || [[Butani]], [[Ubuhinde]]
+|-
+| IQD || 368 || [[Idenari rya Iraki]] || [[Irake]]
+|-
+| IRR || 364 || [[Iriyali ry’Irani]] || [[Irani]]
+|-
+| ISK || 352 || [[Ikorona rya Isilande]] || [[Isilande]]
+|-
+| JMD || 388 || [[Idolari rya Jamayika]] || [[Jamayika]]
+|-
+| JOD || 400 || [[Idenari rya Yorudaniya]] || [[Yorudani]]
+|-
+| JPY || 392 || [[Iyeni ry’Ubuyapani]] || [[Ubuyapani]]
+|-
+| KES || 404 || [[Ishilingi rya Kenya]] || [[Kenya]]
+|-
+| KGS || 417 || . || [[Kirigizasitani]]
+|-
+| KHR || 116 || . || [[Kambodiya]]
+|-
+| KMF || 174 || [[Ifaranga rya Komore]] || [[Komore]]
+|-
+| KPW || 408 || [[Iwani rya Koreya y’Amajyaruguru]] || [[Koreya y’Amajyaruguru]]
+|-
+| KRW || 410 || [[Iwani rya Koreya y’Amajyepfo]] || [[Koreya y’Amajyepfo]]
+|-
+| KWD || 414 || [[Idenari rya Koweti]] || [[Koweti]]
+|-
+| KYD || 136 || [[Idolari ry’Ibirwa bya Kayimani]] || [[Ibirwa bya Kayimani]]
+|-
+| KZT || 398 || [[Ilewone]] || [[Kazakisitani]]
+|-
+| LAK || 418 || [[Ikipu rya Lawosi]] || [[Lawosi]]
+|-
+| LBP || 422 || [[Ipawundi rya Libani]] || [[Libani]]
+|-
+| LKR || 144 || [[Irupi rya Siri Lanka]] || [[Siri Lanka]]
+|-
+| LRD || 430 || [[Idolari rya Liberiya]] || [[Liberiya]]
+|-
+| LSL || 426 || . || [[Lesoto]]
+|-
+| LTL || 440 || [[Ilitasi rya Lituwaniya]] || [[Lituwaniya]]
+|-
+| LVL || 428 || [[Ilatsi rya Lativiya]] || [[Lativiya]]
+|-
+| LYD || 434 || [[Idenari rya Libiya]] || [[Libiya]]
+|-
+| MAD || 504 || [[Idiramu rya Maroke]] || [[Maroke]], [[Sahara y’Uburengerazuba]]
+|-
+| MDL || 498 || [[Ilewu rya Moludova]] || [[Molidova]] 
+|-
+| MGA || 969 || [[Ifaranga rya Madagasikari]] || [[Madagasikari]]
+|-
+| MKD || 807 || [[Idenari rya Masedoniya]] || [[Masedoniya]]
+|-
+| MMK || 104 || . || [[Mayanimari]]
+|-
+| MNT || 496 || . || [[Mongoliya]]
+|-
+| MOP || 446 || [[Ipataka rya Makawo]] || [[Makawo]] 
+|-
+| MRO || 478 || . || [[Moritaniya]]
+|-
+| MUR || 480 || [[Irupi ry’Ibirwa bya Morise]] || [[Morise]]
+|-
+| MVR || 462 || [[Irufiya rya Malidive]] || [[Malidivezi]]
+|-
+| MWK || 454 || [[Ikwaca rya Malawi]] || [[Malawi]]
+|-
+| MXN || 484 || [[Ipezo rya Megizike]] || [[Megizike]]
+|-
+| MXV || 979 || [[Urugero rw’Ishoramutungo UDI]] || [[Megizike]]
+|-
+| MYR || 458 || [[Iringiti rya Maleziya]] || [[Malesiya]]
+|-
+| MZN || 943 || . || [[Mozambike]]
+|-
+| NAD || 516 || [[Idolari rya Namibiya]] || [[Namibiya]]
+|-
+| NGN || 566 || [[Izayire]] || [[Nigeriya]]
+|-
+| NIO || 558 || [[Ikorudoba Oro rya Nikaragwa]] || [[Nikaragwa]]
+|-
+| NOK || 578 || [[Ikorone rya Noruveje]] || [[Noruveje]]
+|-
+| NPR || 524 || [[Irupi rya Nepali]] || [[Nepali]]
+|-
+| NZD || 554 || [[Idolari Zelande Nshya]] || [[Ibirwa bya Kuke]], [[Nuveli Zelande]], [[Niyuwe]], [[Piticayirine]], [[Tokelawu]]
+|-
+| OMR || 512 || [[Iriyali rya Omani]] || [[Omani]]
+|-
+| PAB || 590 || . || [[Panama]]
+|-
+| PEN || 604 || [[Inuvo solu rya Peru]] || [[Peru]]
+|-
+| PGK || 598 || . || [[Papuwa Nuveli Gineya]]
+|-
+| PHP || 608 || [[Ipezo rya Filipine]] || [[Filipine]]
+|-
+| PKR || 586 || [[Irupi rya Pakisitani]] || [[Pakisitani]]
+|-
+| PLN || 985 || [[Iziloti rya Polonye]] || [[Polonye]]
+|-
+| PYG || 600 || [[Ifaranga rya Gineya]] || [[Paragwe]]
+|-
+| QAR || 634 || [[Iriyali rya Katari]] || [[Katari]]
+|-
+| RON || 946 || [[Ilewu rya Romaniya]] || [[Romaniya]]
+|-
+| RSD || 941 || . || [[Seribiya]]
+|-
+| RUB || 643 || [[Irubule ry’Uburusiya]] || [[Uburusiya]], [[Abukaziya]]
+|-
+| RWF || 646 || [[Ifaranga ry’Urwanda]] || [[Rwanda]]
+|-
+| SAR || 682 || [[Iriyali ry’Arabiya Sawudite]] || [[Arabiya Sawudite]]
+|-
+| SBD || 090 || [[Idolari ry’Ibirwa bya Salomoni]] || [[Ibirwa bya Solomoni]]
+|-
+| SCR || 690 || [[Irupi rya Seyishele]] || [[Seyishele]]
+|-
+| SDG || 938 || [[Ipawundi rya Sudani]] || [[Sudani]]
+|-
+| SEK || 752 || [[Ikorona rya Swede]] || [[Suwede]]
+|-
+| SGD || 702 || [[Idolari rya Singapuru]] || [[Singapore]], [[Buruneyi]]
+|-
+| SHP || 654 || [[Ipawundi rya Mutagatifu Helena]] || [[Helena Ntagatifu]]
+|-
+| SLL || 694 || [[Ilewone]] || [[Siyera Lewone]]
+|-
+| SOS || 706 || [[Ishilingi rya Somaliya]] || [[Somaliya]] 
+|-
+| SRD || 968 || [[Idolari rya Surinamu]] || [[Surinamu]]
+|-
+| STD || 678 || . || [[Sawo Tome na Purensipe]]
+|-
+| SYP || 760 || [[Ipawundi rya Siriya]] || [[Siriya]]
+|-
+| SZL || 748 || [[Ililangeni rya Swazilande]] || [[Swazilande]]
+|-
+| THB || 764 || [[Ibahiti rya Tayilande]] || [[Tayilande]]
+|-
+| TJS || 972 || [[Isomoni rya Tajiki]] || [[Tajikisitani]]
+|-
+| TMT || 934 || . || [[Turikimenisitani]]
+|-
+| TND || 788 || [[Idenari rya Tunisiya]] || [[Tunisiya]]
+|-
+| TOP || 776 || [[Ipanga rya Tonga]] || [[Tonga]]
+|-
+| TRY || 949 || [[Ilira rya Turukiya]] || [[Turukiya]], [[Shipure y’Amajyaruguru]]
+|-
+| TTD || 780 || [[Idolari rya Tirinida na Tobago]] || [[Tirinida na Tobago]]
+|-
+| TWD || 901 || [[Idolari rya Tayiwani Nshya]] || [[Tayiwani]] 
+|-
+| TZS || 834 || [[Ishilingi rya Tanzaniya]] || [[Tanzaniya]]
+|-
+| UAH || 980 || . || [[Ikerene]]
+|-
+| UGX || 800 || [[Ishilingi rya Uganda]] || [[Yuganda]]
+|-
+| USD || 840 || [[Idolari rya Leta Zunze Ubumwe z’Amerika]] || [[Leta Zunze Ubumwe z’Amerika]], [[Samowa Nyamerika]], [[Teritwari y’Inyanja y’Abahinde Nyongereza]], [[Antiye za Nederilande]], [[Ekwadoro]], [[Saluvadoro]], [[Gwami]], [[Hayiti]], [[Ibirwa bya Marishali]], [[Mikoronesiya]], [[Ibirwa bya Mariyana y’Amajyaruguru]], [[Palawu]], [[Panama]], [[Puwerito Riko]], [[Timoro-Lesite]], [[Ibirwa bya Takisi na Kayikosi]], [[Ibirwa bya Virigini]], [[Berimuda]] 
+|-
+| USN || 997 || Idolari rya Leta Zunze Ubumwe z’Amerika (Umunsi ukurikira)   || [[Leta Zunze Ubumwe z’Amerika]]
+|-
+| USS || 998 || Idolari rya Leta Zunze Ubumwe z’Amerika (Umunsi umwe) || [[Leta Zunze Ubumwe z’Amerika]]
+|-
+| UYU || 858 || [[Ipezo rya Irigwe]] || [[Irigwe]]
+|-
+| UZS || 860 || [[Isamu rya Uzubekisitani]] || [[Uzubekisitani]]
+|-
+| VEF || 937 || [[Ibolivari rya Venezuwela]] || [[Venezuwela]]
+|-
+| VND || 704 || . || [[Viyetinamu]]
+|-
+| VUV || 548 || . || [[Vanuwatu]]
+|-
+| WST || 882 || [[Itala rya Samowani]] || [[Samowa y’Uburengerazuba]]
+|-
+| XAF || 950 || [[faranga CFA BEAC]] || [[Kameruni]], [[Repubulika ya Santara Afurika]], [[Repubulika Iharanira Demokarasi ya Kongo]], [[Cade]], [[Gineya Ekwatoriyale]], [[Gabo]]
+|-
+| XAG || 961 || [[Ifeza]] ||
+|-
+| XAU || 959 || [[Zahabu]] ||
+|-
+| XBA || 955 || [[Urugero Rukomatanije Nyaburayi]] (EURCO) ||
+|-
+| XBB || 956 || [[Urugero rw’Ifaranga ry’Iburayi]] (E.M.U.-6) ||
+|-
+| XBC || 957 || [[Urugero rwa konte Nyaburayi]] (E.U.A.-9) ||
+|-
+| XBD || 958 || [[Urugero rwa konte Nyaburayi]] (E.U.A.-17) ||
+|-
+| XCD || 951 || [[Idolari rya Karayibe y’Uburasirazuba]] || [[Angwiya]], [[Antigwa na Baribuda]], [[Dominika]], [[Gerenada]], [[Monserati]], [[Mutagatifu Kitsi na Nevisi]], [[Mutagatifu Lusiya (Leta)|Mutagatifu Lusiya]], [[Mutagatifu Visenti na Gerenadine]]
+|-
+| XDR || 960 || [[Uburenganzira Budasanzwe bw’Igishushanyo]] || [[Ikigega Mpuzamahanga cy’Imari]]
+|-
+| XFU || Nil || [[Ifaranga-UIC]] || [[International Union of Railways]]
+|-
+| XOF || 952 || [[Ifaranga CFA BCEAO]] || [[Bene]], [[Burukina Faso]], [[Kote Divuwari]], [[Guneya-Biso]], [[Mali]], [[Nigeri]], [[Senegali]], [[Togo]]
+|-
+| XPD || 964 || [[Paladiyumu]] ||
+|-
+| XPF || 953 || [[Ifaranga CFP]] || [[Polinesiya Nyamfaransa]], [[Nuveli Kalidoniya]], [[Walisi na Fatuna]]
+|-
+| XPT || 962 || [[Pulatinumu]] ||
+|-
+| XTS || 963 || Itegekongenga ku mpamvu z’igerageza ||
+|-
+| XXX || 999 || Nta faranga rizamo ||
+|-
+| YER || 886 || [[Iriyali rya Yemeni]] || [[Yemeni]]
+|-
+| ZAR || 710 || [[Irandi ry’Afurika y’Epfo]] || [[Afurika y’Epfo]]
+|-
+| ZMK || 894 || [[Ikwaca rya Zambiya]] || [[Zambiya]]
+|-
+| ZWL || 932 || [[Idolari rya Zimbabwe]] || [[Zimbabwe]]
+|}
