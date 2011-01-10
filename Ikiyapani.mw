@@ -166,6 +166,167 @@
 |}
 
 == Katakana ==
+{| border="0" cellspacing="2px" cellpadding="2px" width="100%"
+|-
+|bgcolor="#BECFEB" valign=top align="center" colspan = 8 | [[Katakana]]
+|bgcolor="#D4D4D4" colspan = 3 align="center"|
+|-bgcolor="#BECFEB" valign=top align="center"
+![[ア]] ''a''
+![[イ]] ''i''
+![[ウ]] ''u''
+![[エ]] ''e''
+![[オ]] ''o''
+|bgcolor="#D4D4D4"|ヤ　''ya''
+|bgcolor="#D4D4D4"|ユ　''yu''
+|bgcolor="#D4D4D4"|ヨ　''yo''
+
+|-
+|colspan="8"|
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[カ]] ''ka''
+|[[キ]] ''ki''
+|[[ク]] ''ku''
+|[[ケ]] ''ke''
+|[[コ]] ''ko''
+|bgcolor="#F3F5DE"|キャ ''kya''
+|bgcolor="#F3F5DE"|キュ ''kyu''
+|bgcolor="#F3F5DE"|キョ ''kyo''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[サ]] ''sa''
+|[[シ]] ''shi''
+|[[ス]] ''su''
+|[[セ]] ''se''
+|[[ソ]] ''so''
+|bgcolor="#F3F5DE"|シャ ''sha''
+|bgcolor="#F3F5DE"|シュ ''shu''
+|bgcolor="#F3F5DE"|ショ ''sho''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[タ]] ''ta''
+|[[チ]] ''ci''
+|[[ツ]] ''tsu''
+|[[テ]] ''te''
+|[[ト]] ''to''
+|bgcolor="#F3F5DE"|チャ ''ca''
+|bgcolor="#F3F5DE"|チュ ''cu''
+|bgcolor="#F3F5DE"|チョ ''co''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[ナ]] ''na''
+|[[ニ]] ''ni''
+|[[ヌ]] ''nu''
+|[[ネ]] ''ne''
+|[[ノ]] ''no''
+|bgcolor="#F3F5DE"|ニャ ''nya''
+|bgcolor="#F3F5DE"|ニュ ''nyu''
+|bgcolor="#F3F5DE"|ニョ ''nyo''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[ハ]] ''ha''
+|[[ヒ]] ''hi''
+|[[フ]] ''fu''
+|[[ヘ]] ''he''
+|[[ホ]] ''ho''
+|bgcolor="#F3F5DE"|ヒャ ''hya''
+|bgcolor="#F3F5DE"|ヒュ ''hyu''
+|bgcolor="#F3F5DE"|ヒョ ''hyo''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[マ]] ''ma''
+|[[ミ]] ''mi''
+|[[ム]] ''mu''
+|[[メ]] ''me''
+|[[モ]] ''mo''
+|bgcolor="#F3F5DE"|ミャ ''mya''
+|bgcolor="#F3F5DE"|ミュ ''myu''
+|bgcolor="#F3F5DE"|ミョ ''myo''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[ヤ]] ''ya''
+|bgcolor="#E9E9E9"|
+|[[ユ]] ''yu''
+|bgcolor="#E9E9E9"|
+|[[ヨ]] ''yo''
+|bgcolor="#E9E9E9" colspan="3"|
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[ラ]] ''ra''
+|[[リ]] ''ri''
+|[[ル]] ''ru''
+|[[レ]] ''re''
+|[[ロ]] ''ro''
+|bgcolor="#F3F5DE"|リャ ''rya''
+|bgcolor="#F3F5DE"|リュ ''ryu''
+|bgcolor="#F3F5DE"|リョ ''ryo''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|[[ワ]]&nbsp;''wa''
+|<font color=red>[[ヰ]]&nbsp;''wi''</font>
+|bgcolor="#E9E9E9"|
+|<font color=red>[[ヱ]]&nbsp;''we''</font>
+|[[ワ]]&nbsp;''wo''
+|bgcolor="#E9E9E9" colspan="3"|
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|bgcolor="#E9E9E9" colspan="4"|
+|[[ン]] ''n''
+|bgcolor="#E9E9E9" colspan="3"|
+
+|-
+|colspan="8"|
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|ガ ''ga''
+|ギ ''gi''
+|グ ''gu''
+|ゲ ''ge''
+|ゴ ''go''
+|bgcolor="#F3F5DE"|ギャ ''gya''
+|bgcolor="#F3F5DE"|ギュ ''gyu''
+|bgcolor="#F3F5DE"|ギョ ''gyo''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|ザ ''za''
+|ジ ''ji''
+|ズ ''zu''
+|ゼ ''ze''
+|ゾ ''zo''
+|bgcolor="#F3F5DE"|ジャ ''ja''
+|bgcolor="#F3F5DE"|ジュ ''ju''
+|bgcolor="#F3F5DE"|ジョ ''jo''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|ダ ''da''
+|ジ ''(ji)''
+|ズ ''(zu)''
+|デ ''de''
+|ド ''do''
+|bgcolor="#F3F5DE"|ジャ ''(ja)''
+|bgcolor="#F3F5DE"|ジュ ''(ju)''
+|bgcolor="#F3F5DE"|ジョ ''(jo)''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|バ ''ba''
+|ビ ''bi''
+|ブ ''bu''
+|ベ ''be''
+|ボ ''bo''
+|bgcolor="#F3F5DE"|ビャ ''bya''
+|bgcolor="#F3F5DE"|ビュ ''byu''
+|bgcolor="#F3F5DE"|ビョ ''byo''
+
+|-bgcolor="#E7F5DE" valign=top align="center"
+|パ ''pa''
+|ピ ''pi''
+|プ ''pu''
+|ペ ''pe''
+|ポ ''po''
+|bgcolor="#F3F5DE"|ピャ ''pya''
+|bgcolor="#F3F5DE"|ピュ ''pyu''
+|bgcolor="#F3F5DE"|ピョ ''pyo''
+|}
 
 [[Category:Indimi]]
 [[Category:Ubuyapani]]
