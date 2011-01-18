@@ -94,8 +94,7 @@ Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]].</div>
 
 <!--{{#if:{{{lien|}}}|
 <div class="accueil_cadre_lien">{{{lien}}}</div>
-<nowiki />}}</div>{{#if:{{{cellule|}}}||</div>}} -->
-* [[Afurika]] 
+<nowiki />}}</div>{{#if:{{{cellule|}}}||</div>}} --> 
 * [[Rwanda]] * [[Imirenge y’u Rwanda]] 
 * [[Burundi]] 
 * [[Nijeriya]]   
