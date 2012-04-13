@@ -85,7 +85,7 @@ Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]]</div>
 |width="50%" valign="top"|
 <!-- ============================================= -->
 
-{{#if:{{{cellule|}}}|{{!}}valign="top" width="{{{width|50%}}}" class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px"{{!}}|<div class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px;vertical-align:top">}}
+{{#if:{{{cellule|}}}|{{!}}valign="top" width="{{{width|50%}}}" class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px"{{!}}|<div id="mf-content" class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px;vertical-align:top">}}
 <h2 class="headergris">Amakuru arambuye kuri...</h2>
 <div class="accueil_contenu">
 
