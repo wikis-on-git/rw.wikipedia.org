@@ -17,7 +17,7 @@ Ikinyarwanda kigizwe n'inyuguti 24: a b c d e f g h i j k l m n o p r s t u v w 
 
 Izi nyuguti 24 zirimo ibice 2:
 :inyajwi 5: a e i o u
-:indagi 19: b c d f g h j k l m n p r s t v w y z 
+:ingombajwi(indagi) 19: b c d f g h j k l m n p r s t v w y z 
 
 <center>
 {|class="wikitable" style="border-collapse:collapse;"
@@ -33,27 +33,27 @@ Izi nyuguti 24 zirimo ibice 2:
 </center>
 
 
-Indagi zivamo ibihekane bigizwe n'inyuguti 2 3 ndetse n'inyuguti 4 bikongerwaho nabyo buri gihe inyajwi kugirango bivugike neza.
+Indagi zivamo ibihekane bigizwe n'inyuguti ebyiri, eshatu,ndetse hari n'ibigizwe n'inyuguti 4 bikongerwaho nabyo buri gihe inyajwi kugirango bivugike neza.
 
-:Urugero ibihekane 2 ''nd'' kongeraho inyajwi ''ndi nde nda ndo ndu'' ukandika ijambo indege.
+:Urugero:  Ibihekane bigizwe n'ingwombajwi ebyiri '''''nd,''''' wakongeraho inyajwi (a e i o u) bigahinduka ''nd'''a,''' nd'''e,''' nd'''i,''' nd'''o,''' nd'''u''''' ukandika ijambo indege.
 
-:Ibihekane 3 ''ndw'' kongeraho inyajwi ''ndwi ndwe ndwa ndwo ndwu'' ukandika ijambo indwara.
+:Ibihekane  bigizwe n'ingwombajwi eshatu '''''ndw''''' kongeraho inyajwi (a e i o u) bigahinduka ''ndw'''a,''' ndw'''e,''' ndw'''i,''' ndw'''o,''' ndw'''u''''' ukandika ijambo indwara.
 
-:Ibihekane 4 ''nshy'' kwongeraho inyajwi ''nshyi nshye nshya nshyo nshyu'' ukandika ijambo inshyushyu.
+:Ibihekane bigizwe n'ingwombajwi enye '''''nshy''''' kongeraho inyajwi (a e i o u) bigahinduka ''nshy'''a,''' nshy'''e,''' nshy'''i,''' nshy'''o,''' nshy'''u''''' ukandika ijambo inshyushyu.
 
 == Ingombajwi ==
 {| class="IPA wikitable" style="text-align: center;"
 !
 ![[Ingombajwi y’inyaminwa|inyaminwa]]
 ![[Ingombajwi y’inyamwinyo|inyamwinyo]]
-![[Ingombajwi y’inyeshinya|inyeshinya]]
+![[Ingombajwi y’inyeshinya|inyesongashinya]]
 !"Postalveolar"
 ![[Ingombajwi y’inyarusenge|inyarusenge]]
 ![[Ingombajwi y’incarusenga|incarusenga]]
 !"Labiovelar"
 !"Glottal"
 |-
-!"Plosive"
+!Inturike
 |p b
 |
 |t d
@@ -164,13 +164,13 @@ Indagi zivamo ibihekane bigizwe n'inyuguti 2 3 ndetse n'inyuguti 4 bikongerwaho 
 == ==
 {| classe="wikitable" style="text-align: center"
 ! rowspan="2" | "Class"
-! colspan="2" | umugereka 
-! colspan="2" | ubuke 
+! colspan="2" | ubumwe 
+! colspan="2" | ubwinshi 
 |-
-! "Noun"
-! "Possessive"
-! "Noun"
-! "Possessive"
+!indomo
+!Ikinyazina ngenera
+!indomo
+!Ikinyazina ngenera
 |-
 ! 1
 | umu || wa || aba || ba
@@ -207,43 +207,49 @@ Indagi zivamo ibihekane bigizwe n'inyuguti 2 3 ndetse n'inyuguti 4 bikongerwaho 
 {|class=wikitable
 ! !! !! !! !! !! !! !! || || 
 |-
-| 1 (sg.)    || umu   || mu || wa  || uyu || uwo  || uriya  || wa  || n, u, a    || n, ku, mu
+|1 (ubumwe)|| umu   || mu || wa  || uyu || uwo  || uriya  || wa  || n, u, a    || n, ku, mu
 |-
-| 1 (pl.)    || aba   || ba || ba  || aba || abo  || bariya || ba  || tu, mu, ba || tu, ba, ba
+|1 (ubwinshi)|| aba   || ba || ba  || aba || abo  || bariya || ba  || tu, mu, ba || tu, ba, ba
 |-
-| 2 (sg.)   || umu   || mu || wa  || uyu || uwo  || uriya  || wa  || u          || wu
+|2 (ubumwe)|| umu   || mu || wa  || uyu || uwo  || uriya  || wa  || u          || wu
 |-
-| 2 (pl.)   || imi   || mi || ya  || iyi || iyo  || iriya  || ya  || i          || yi
+|2 (ubwinshi)|| imi   || mi || ya  || iyi || iyo  || iriya  || ya  || i          || yi
 |-
-| 3 (sg.)  || i, in || n  || ya  || iyi || iyo  || iriya  || ya  || i          || yi
+|3 (ubumwe)
+|| i, in || n  || ya  || iyi || iyo  || iriya  || ya  || i          || yi
 |-
-| 3 (pl.)  || i, in || n  || za  || izi || izo  || ziriya || za  || zi         || zi
+| 3 (ubwinshi)  || i, in || n  || za  || izi || izo  || ziriya || za  || zi         || zi
 |-
-| 4 (sg.)   || iki   || ki || cya || iki || icyo || kiriya || cya || ki         || ki
+|4 (ubumwe)
+|| iki   || ki || cya || iki || icyo || kiriya || cya || ki         || ki
 |-
-| 4 (pl.)   || ibi   || bi || bya || ibi || ibyo || biriya || bya || bi         || bi
+| 4 (ubwinshi)   || ibi   || bi || bya || ibi || ibyo || biriya || bya || bi         || bi
 |-
-| 5 (sg.)    || i     || ri || rya || iri || iryo || ririya || rya || ri         || ri
+|5 (ubumwe)
+|| i     || ri || rya || iri || iryo || ririya || rya || ri         || ri
 |-
-| 5 (pl.)    || ama   || ma || ya  || aya || ayo  || ariya  || ya  || a          || ya
+| 5 (ubwinshi)    || ama   || ma || ya  || aya || ayo  || ariya  || ya  || a          || ya
 |-
-| 6 (sg.)   || uru   || ru || rwa || uru || urwo || ruriya || rwa || ru         || ru
+|6 (ubumwe)|| uru   || ru || rwa || uru || urwo || ruriya || rwa || ru         || ru
 |-
-| 6 (pl.)   || in    || n  || za  || izi || izo  || ziriya || za  || zi         || zi
+| 6 (ubwinshi)   || in    || n  || za  || izi || izo  || ziriya || za  || zi         || zi
 |-
-| 7 (sg.)  || aka   || ka || ka  || aka || ako  || kariya || ka  || ka         || ka
+|7 (ubumwe)
+|| aka   || ka || ka  || aka || ako  || kariya || ka  || ka         || ka
 |-
-| 7 (pl.)  || utu   || tu || twa || utu || utwo || turiya || twa || tu         || tu
+| 7 (ubwinshi)  || utu   || tu || twa || utu || utwo || turiya || twa || tu         || tu
 |-
-| 8 (sg.) || ubu   || bu || bwa || ubu || ubwo || buriya || bwa || bu         || bu
+|8 (ubumwe)
+|| ubu   || bu || bwa || ubu || ubwo || buriya || bwa || bu         || bu
 |-
-| 8 (pl.) || ama   || ma || ya  || aya || ayo  || ariya  || ya  || a          || ya
+| 8 (ubwinshi) || ama   || ma || ya  || aya || ayo  || ariya  || ya  || a          || ya
 |-
-| 9 (sg.)   || uku   || ku || kwa || uku || ukwo || kuriya || kwa || ku         || ku
+|9 (ubumwe)
+|| uku   || ku || kwa || uku || ukwo || kuriya || kwa || ku         || ku
 |-
-| 9 (pl.)   || ama   || ma || ya  || aya || ayo  || ariya  || ya  || a          || ya
+| 9 (ubwinshi)   || ama   || ma || ya  || aya || ayo  || ariya  || ya  || a          || ya
 |-
-| 10          || aha   || ha || ha  || aha || aho  || hariya || ha  || ha         || ha
+| 10(ubumwe/ubwinshi)          || aha   || ha || ha  || aha || aho  || hariya || ha  || ha         || ha
 |}
 
 == Imyandikire ==
