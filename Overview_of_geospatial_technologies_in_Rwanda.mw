@@ -1,0 +1,61 @@
+== Introduction ==
+Satellite positioning systems, real-time traffic maps, ride hailing services ,and e-commerce… all of these applications are enabled by location-based – or “geospatial” – technology and information. Geospatial technology broadly includes mapping and surveying techniques, remote sensing, photogrammetry, cartography, Global Navigation Satellite Systems and Geographical Information Systems (GIS)<ref>https://www.aaas.org/programs/scientific-responsibility-human-rights-law/overview-geospatial-project</ref> With its unique ability for acquisition, integration and analysis of geographically referenced spatial information, this technology has in recent times been recognized as an effective tool for planning, management and decision making in Rwanda, across Africa and worldwide.
+
+The major sectors using geospatial technology in [[Rwanda]] are:
+
+Land use and land management, infrastructure in roads , electrical networks and water supply systems , in environmental management etc.
+
+== Vision ==
+The geospatial technologies are broadly included in the vision 2050 of [[Rwanda]] , The development of National land use master plans , Kigali master plan , satellites cities and secondary cities for the vision up to 2050 reflect a concentration on proper planning ahead and integrate various infrastructure projects with big ideas. One most important pillar to achieve these objectives is the innovation brought  in human capital development for the capacity building for the young generation and these have to be inclusive leaving no one behind in the knowledge of geospatial technologies and its optimum use being basic or advanced skills in Geographic Information Systems especially in land use planning .
+
+With the main 4 drivers of the economy being the innovation , integration, agglomeration and competition as stipulated in the study by the ministry of finance in collaboration with the world bank. 
+
+The geospatial market comprises four identifiable components – data, software, hardware and services.  Of these two segments, data and services have shown significant growth in Rwanda. The major Geographic Information System software providers are ESRI Rwanda as proprietary   and [[QGIS]] as open source<ref>{{Cite web|title=About {{!}} Esri Rwanda|url=https://www.esri.rw/about-rw/about2|access-date=2021-06-23|website=www.esri.rw}}</ref>
+
+Various initiatives and programs have been introduced to pave way for an assured future knowledge economy :  these include the Rwanda Space Agency which was established in 2020.<ref>https://www.ktpress.rw/2021/03/parliament-approves-law-establishing-rwanda-space-agency/</ref>
+
+== History ==
+The use of geospatial technologies start back in use of national  cartography  where theodolites and other traditional means  were used , from the maps delineating the country boundaries  produced back in the Berlin conference which regulated the European colonization. 
+
+== Policies ==
+Geospatial technologies regulations in Rwanda are favored by the general ICT policies which have a privilege's advantage in order to advance a knowledge based economy these are reflected in the tax exemptions on the geodetic equipment and other needed infrastructure in the field. the use of accurate measurement in land survey and plots subdivision is mandatory (less than 5 cm )  based on the geodetic network which covers the whole country.  Major regulations governing the promotion of the use of geospatial technologies are : 
+
+National data reproduction policy<ref>https://statistics.gov.rw/file/5410/download?token=r0nXaTAv</ref> 
+
+== Education ==
+One of the pillars of the use of geospatial technologies is in the evolution from the academia , where most of the students acquired the knowledge and contributed in the promotion of these technologies in their various responsibilities across the public and private sector.  
+
+*  The Centre for [[Geographic information system|Geographic Information Systems]] and Remote Sensing was created in 1999 at National University of Rwanda with the overall objective to enhance regional capacity in conservation science and related technologies and the Mission to promote teaching, research, consultancy and community service in GIS and Remote Sensing to address issues related to Environment and Natural Resources Management, Disaster Risk Management, Urban and Regional Planning towards economic transformation and [[Sustainable development|sustainable development  at national]] and regional levels.<ref></ref> The center played a key role in the first capacity building initiatives for [[land registration]] and applications in agriculture and health
+
+*  INES Ruhengeri has contributed in training qualified and competent surveyors and in land administration with strong knowledge and professional skills so to mitigate the challenges related to the scarcity of competent land surveyors in the labor market, and act as an outreach regional center for surveying services.<ref>{{Cite web|title=Land Survey – INES|url=https://ines.ac.rw/academics/faculties/applied-fundamental-sciences/land-survey/|access-date=2021-06-23|language=en-US}}</ref> 
+* Rwanda polytechnic,  [[IPRC-Kigali|IPRC Kigal]]<nowiki/>i offers  two programs which  are related to Geospatial technologies: Quantity surveying and land surveying  where subjects of Measurements of Civil Engineering works, Engineering Surveying theory & practice, Workshop Practices in Quantity Surveying & Construction Technology, Property Valuation & Construction Law , Basics Topography and Surveying Equipment &Topographical Surveying , Surveying Mathematics &Surveying CAD Software's Principles of [[Quantity surveying|Quantity Surveying]] &Highway Engineering , Elementary Geodesy, Astronomy Cadastral Surveying and Mapping are though among others. 
+* [[University of Kigali|Independent University of Kigali]] has set up  a polytechnic wing with vocation to practically train among others professional surveyors
+* [[Saint Joseph's University|Saint Joseph]] Integrated Technical College, SJITC<ref>{{Cite web|title=Welcome to Saint Joseph Integrated Technical College|url=https://sjitc.ac.rw/history|access-date=2021-06-23|website=sjitc.ac.rw}}</ref> has been very active in the vocational training of technicians in the field of surveying.
+
+Private business and associations have actively started using geospatial technologies and definitely contributing to the capacity building in the field. among them :
+
+* [[ESRI|ESRI Rwanda]] Esri has been supporting GIS projects in Rwanda since 2000, partnering with various ministries, the National University of Rwanda (NUR), and the Kigali Institute of Technology [[KIST-FM|(KIST)]]. On August 19, 2010, Esri established a local company serving the users of Esri products locally in Kigali. Since then it has been the official and only distributor for all Esri products and related services in Rwanda, [[Burundi]], and – since 2012 – the Republic of [[Congo Brazzaville|Congo]]. 
+* CHARIS UAS : [[Drone|Drone company]] in Rwanda and leader in drone services and manufacturing. provides high-quality aerial imagery and data solutions in order to support intelligent decision making that can solve some of [[Africa|Africa’s biggest challenges]]. Specializing  in understanding customer requirements, build and system integrate [[UAV|UAV sensors]], and provide drone data solutions that deliver high quality results. These include UAS consulting, UAV building and system integration, pilot and safety training, maintenance of UAVs and much more. 
+* Associations and umbrellas of civil society have also been established, these include the Rwanda organization of land surveyors<ref>https://twitter.com/rwandaols</ref>  , Rwanda association of urban planners and many more
+
+== Government services related to Geospatial technologies ==
+
+* The Government of Rwanda has established a [[National Land Company|National Land Registry]] through a wide Land Tenure Regularization Program that commenced in July 2009. The Registry holds all land records encompassing land ownership information and other vital information benefiting both land owners and anyone who needs to make a commitment over a given piece of land.
+
+* The Land Information Inquiry Portal was established by [[Kinyarwanda|Rwanda Land Management]] and Use Authority to help land owners, citizens, organizations and [[Investor|investors]] to confirm land ownership, to check the land area, land use and the planned use, to verify whether a parcel has any restriction or a mortgage registered against it, if there is an ongoing transaction on the parcel<ref>{{Cite journal|last=Damveld|first=Robbert A.|last2=Arentshorst|first2=Mark|last3=Franken|first3=Angelique|last4=VanKuyk|first4=Patricia A.|last5=Klis|first5=Frans M.|last6=Van Den Hondel|first6=Cees A. M. J. J.|last7=Ram|first7=Arthur F. J.|date=2005-08-26|title=The Aspergillus niger MADS-box transcription factor RlmA is required for cell wall reinforcement in response to cell wall stress|url=http://dx.doi.org/10.1111/j.1365-2958.2005.04827.x|journal=Molecular Microbiology|volume=58|issue=1|pages=305–319|doi=10.1111/j.1365-2958.2005.04827.x|issn=0950-382X}}</ref>
+
+* Rwanda geodetic network , a 10 sites  Continuously Operating Reference Stations (CORS) serves in the accurate land survey and infrastructure survey <ref>https://rlma.rw/index.php?id=41&tx_news_pi1%5Bnews%5D=252&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=e27d93397f3e8bae2c67699b55d26205</ref>   
+* Kigali master plan and other land use planning tools are available online and may serve in proper land acquisition <ref>http://masterplan2020.kigalicity.gov.rw/</ref>
+
+== The trends of Geospatial Technologies in Rwanda ==
+The trends in the use of geospatial technologies are in various forms ,
+
+* For instance, semi-automated geospatial solutions based on earth observation, [[Urban|urban sensing]], and mobile contact-tracing coupled with artificial intelligence, machine learning, and computer vision are spreading fast and have been used in tracing in Rwanda, and notably dominate the [[COVID-19|COVID-19 analysis.]] With the increase of mobile technology and communications, handheld smartphones have democratized mapping, moving [[geospatial technology]] into the hands of every individual.
+
+* It is expected that Lidar technologies will be used in wetlands surveying in Kigali and this will complete and correct the previous surveys of wetlands which were based on observation and mapping without proper technologies to delineate these wetlands
+
+* The national statistics census is among the main users of these technologies and these will be enhanced  in the upcoming 2022 national census
+
+References
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
