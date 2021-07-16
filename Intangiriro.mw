@@ -10,9 +10,9 @@
 {|id="EnWpMpBook2" style="width:100%; border: 1px solid #d1d0f5; border-bottom: 0; background-repeat: no-repeat; background-position: 0% 20%; background-color: #ffffff;"
 |style="width:30%;"|
 
-<div id="accueil_titre"><center><big><big><big><font color="green">'''Murakaza neza ku rubuga ruhariwe Wikipediya mu Kinyarwanda'''</font></big></big></big><br />
-<big><font color="grey">''Niba muvuga ikinyarwanda, iyi Nkoranya nzimbuzi nibe iyanyu''</font></big><br />
-Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]]</div>
+<div id="accueil_titre"><div class="center"><big><big><big><span style="color:green;">'''Murakaza neza ku rubuga ruhariwe Wikipediya mu Kinyarwanda'''</span></big></big></big><br />
+<big><span style="color:grey;">''Niba muvuga ikinyarwanda, iyi Nkoranya nzimbuzi nibe iyanyu''</span></big><br />
+Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]]</div></div>
 <!-- ===================================================== -->
 {|width="100%" cellspacing="0" cellpadding="0" style="margin-top:0.6em"
 |-
