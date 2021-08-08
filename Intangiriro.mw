@@ -1,97 +1,65 @@
-<templatestyles src="Main Page/minerva.css" />__NOTOC__
-<!-- ---------- START ---------------------------- -->
-{| style="clear:both; background:none;"
-{|
-| width="60%" style="padding:1em; border:1px solid #dfdfdf; background-color:#E7EBF5; vertical-align: top;"|
-{| cellspacing="0" width="100%" align="center" style="font-size:90%; text-align: center; margin-top:8px"
-|- valign="top" 
-| width="100%" bgcolor="#EAF5FF" |
-<!-- ---------- SECTIUNEA PORTALURILOR ---------------------------- -->
-{|id="EnWpMpBook2" style="width:100%; border: 1px solid #d1d0f5; border-bottom: 0; background-repeat: no-repeat; background-position: 0% 20%; background-color: #ffffff;"
-|style="width:30%;"|
+{{DISPLAYTITLE:<span style="font-family:Raleway, sans-serif; font-size: 20pt">{{FULLPAGENAME}}</span>}}
+<templatestyles src="Intangiriro/ikizamini/styles.css" />
+__NOEDITSECTION__ __NOTOC__
 
-<div id="accueil_titre"><div class="center"><big><big><big><span style="color:green;">'''Murakaza neza ku rubuga ruhariwe Wikipediya mu Kinyarwanda'''</span></big></big></big><br />
-<big><span style="color:grey;">''Niba muvuga ikinyarwanda, iyi Nkoranya nzimbuzi nibe iyanyu''</span></big><br />
-Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]]</div></div>
-<!-- ===================================================== -->
-{|width="100%" cellspacing="0" cellpadding="0" style="margin-top:0.6em"
-|-
-|width="50%" valign="middle" style="border:1px solid #CCF7CC;background:#EEFFEE;padding:7px"|
+<div class="main_box">
+<div id="header1">
+<div>
+Murakaza neza ku rubuga ruhariwe<br />
+<span class="large">Wikipediya mu Kinyarwanda</span><br />
+Niba muvuga ikinyarwanda, iyi Nkoranya nzimbuzi nibe iyanyu
+</div>
+</div>
+<div class="content">
+<div id="page" class="content_box">
 '''[[Inyandiko]]''' : '''[[gushakashaka]]''' • '''[[kwifashisha]]''' • '''[[kumenyesha]]'''
 
 [[Inyandiko ziboneye]] • [[Inyandiko zinoze]] • [[Ibyiciro]] • [[Amahitamo]]
-|style="padding:4px;font-size:1px"|&nbsp;
-|width="50%" valign="middle" style="border:1px solid #DDDDF7;background:#F7F7FF;padding:7px"|
-'''[[Kwakira abantu bashya]]''' '''n'''' '''[[umuryango]]'''
-
-[[Iby'ingenzi]] • [[Baza ikibazo]] • [[Amahame y'abashinze wikipediya]] • [[Ambasade]]
-|-
-|style="font-size:0.6em;line-height:0.6em"|&nbsp;
-|-
-| valign="top"|
-<!-- ============================================= -->
-
-{{#if:{{{cellule|}}}|{{!}}valign="top" width="{{{width|50%}}}" class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px"{{!}}|<div class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px;vertical-align:top">}}
-<h2 class="headergris">Urubuga rw'amasite ashingiye ku byiciro</h2>
-<div class="accueil_contenu">{{{precontenu|}}}
 
 {|width="100%" border="0" cellspacing="0" cellpadding="5" style="background:transparent"
 |-
-<!-- ________________________________________ -->
-|[[Image:Artalt.png|44px|Ubugeni n'Ubumenyamuntu]]
+|[[Image:Circle-icons-brush-pencil.svg|44px|Ubugeni n'Ubumenyamuntu]]
 |'''[[Portail:Arts|Ubugeni n'Ubumenyamuntu]]'''<br />
-
-<!-- ________________________________________ -->
 |-
-<!-- ________________________________________ -->
-|[[Image:Sciences exactes.svg|44px|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]
-|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Sciences|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]'''<br />
-
-<!-- ________________________________________ -->
+|[[Image:Circle-icons-genius.svg|44px|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]
+|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Sciences|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]'''<br />
 |-
-<!-- ________________________________________ -->
-|[[Image:Sciences humaines.svg|44px|Ubumenyi nyamuntu na sociales]]
-|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Sciences humaines|Ubumenyi nyamuntu]] et [[Portail:Sciences sociales|sociales]]'''<br />
-
-<!-- ________________________________________ -->
+|[[Image:Antu applications-education-university.svg|44px|Ubumenyi nyamuntu na sociales]]
+|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Sciences humaines|Ubumenyi nyamuntu]] et [[Portail:Sciences sociales|sociales]]'''<br />
 |-
-|[[Image:Société.png|44px|Umuryango w'abantu]]
-|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Société|Umuryango w'abantu]]'''<br />
-
-<!-- ________________________________________ -->
+|[[Image:Circle-icons-news.svg|44px|Umuryango w'abantu]]
+|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Société|Umuryango w'abantu]]'''<br />
 |-
-<!-- ________________________________________ -->
-<!-- ________________________________________ -->
+|[[Image:Circle-icons-gear.svg|44px|Ikoranabuhanga]]
+|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Technologies|Ikoranabuhanga]]'''<br />
 |-
-<!-- ________________________________________ -->
-|[[Image:Transmission.png|44px|Ikoranabuhanga]]
-|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Technologies|Ikoranabuhanga]]'''<br />
+|[[Image:Noto Emoji Oreo 1f3c0.svg|44px|Ubuzima bwa buri munsi n'imyidagaduro]]
+|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Vie quotidienne et loisirs|Ubuzima bwa buri munsi n'imyidagaduro]]'''<br />
+|}
 
-<!-- ________________________________________ -->
-|-
-<!-- ________________________________________ -->
-|[[Image:Loisirs.svg|44px|Ubuzima bwa buri munsi n'imyidagaduro]]
-|style="border-top:2px dotted #DDDDF7;"|'''[[Portail:Vie quotidienne et loisirs|Ubuzima bwa buri munsi n'imyidagaduro]]'''<br />
+</div>
+<div id="big_image">
+<div class="h2"><h2>Today's view</h2></div>
+[[file:Sunrisenyungwe.jpg|1600px]]
+<div class="image_text">[[Pariki ya Nyungwe|Pariki ya Nyungwe sunrisenyungwe]]</div>
+</div>
+<div class="content">
+<div id="community" class="content_box">
+'''[[Kwakira abantu bashya]] n' [[umuryango]]'''
 
-|}<noinclude>
-[[Catégorie:Modèle pour les pages d'accueil|{{PAGENAME}}]]
-</noinclude>
-
-{{#if:{{{lien|}}}|
-<div class="accueil_cadre_lien">{{{lien}}}</div>
-<nowiki />}}</div>{{#if:{{{cellule|}}}||</div>}}
-<!-- ============================================= -->
-|style="padding:4px;font-size:1px"|&nbsp;
-|width="50%" valign="top"|
-<!-- ============================================= -->
-
-{{#if:{{{cellule|}}}|{{!}}valign="top" width="{{{width|50%}}}" class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px"{{!}}|<div id="mf-content" class="cadregris" style="margin-bottom:0.6em;border:1px solid #AAAAAA;background-color:#FCFCFC;padding:7px;vertical-align:top">}}
-<h2 class="headergris">Amakuru arambuye kuri...</h2>
-<div class="accueil_contenu">
-
-<!--{{#if:{{{lien|}}}|
-<div class="accueil_cadre_lien">{{{lien}}}</div>
-<nowiki />}}</div>{{#if:{{{cellule|}}}||</div>}} --> 
+[[Iby'ingenzi]] • [[Baza ikibazo]] • [[Amahame y'abashinze wikipediya]] • [[Ambasade]]
+</div>
+</div>
+</div>
+<div id="header2">
+<div>
+Ubu hari inyandiko <br>
+'''[[Special:Statistics|{{NUMBEROFARTICLES}} artihkkala]]'''
+</div>
+</div> 
+<div class="meta">
+<div id="community" class="meta_box">
+<h2>Amakuru arambuye kuri...</h2>
 * [[Rwanda]] · [[Imirenge y’u Rwanda]] 
 * [[Burundi]] 
 * [[Nijeriya]]   
@@ -110,15 +78,13 @@ Ubu hari inyandiko [[Special:Statistics|{{NUMBEROFARTICLES}}]]</div></div>
 * [[Interahamwe]] · [[Fred Rwigema]] · [[Umwami Fayçal]]
 * [[Kanseri]] · [[SIDA]]
 * [[Ubukirisitu]] · [[Bibiliya]] · [[Yesu Kristo]] · [[Adamu]] · [[:Category:Abagatifu|Abagatifu]] · [[Islamu]] · [[Umuryango w’Abayislamu mu Rwanda]] · [[Igisibo]]· [[Gusiramura]]
+* [[Wikipedia:Bures boahtin Wikipediai|Loga eambbo]]
+</div>
+</div>
 </div>
 
-<!-- ============================================= -->
-|style="padding:4px;font-size:1px"|&nbsp;
-|width="100%" valign="bottom"|
-<!-- ============================================= -->
-|}<!--
-
------------------------------Sections at bottom of page------------------------------>
+--------------
+<!-------------------------------Sections at bottom of page------------------------------>
 <!--<div id="mp-other">
 ==Ibindi bice bya Wikipediya==-->
 </div><div id="mp-sister">
