@@ -16,27 +16,23 @@ Niba muvuga ikinyarwanda, iyi Nkoranya nzimbuzi nibe iyanyu
 
 [[Inyandiko ziboneye]] • [[Inyandiko zinoze]] • [[Ibyiciro]] • [[Amahitamo]]
 
-{|width="100%" border="0" cellspacing="0" cellpadding="5" style="background:transparent"
-|-
-|[[Image:Circle-icons-brush-pencil.svg|44px|Ubugeni n'Ubumenyamuntu]]
-|'''[[Portail:Arts|Ubugeni n'Ubumenyamuntu]]'''<br />
-|-
-|[[Image:Circle-icons-genius.svg|44px|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]
-|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Sciences|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]'''<br />
-|-
-|[[Image:Antu applications-education-university.svg|44px|Ubumenyi nyamuntu na sociales]]
-|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Sciences humaines|Ubumenyi nyamuntu]] et [[Portail:Sciences sociales|sociales]]'''<br />
-|-
-|[[Image:Circle-icons-news.svg|44px|Umuryango w'abantu]]
-|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Société|Umuryango w'abantu]]'''<br />
-|-
-|[[Image:Circle-icons-gear.svg|44px|Ikoranabuhanga]]
-|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Technologies|Ikoranabuhanga]]'''<br />
-|-
-|[[Image:Noto Emoji Oreo 1f3c0.svg|44px|Ubuzima bwa buri munsi n'imyidagaduro]]
-|style="border-top:1px solid #DDDDF7;"|'''[[Portail:Vie quotidienne et loisirs|Ubuzima bwa buri munsi n'imyidagaduro]]'''<br />
-|}
-
+[[Image:Circle-icons-brush-pencil.svg|44px|link=Portail:Arts|Ubugeni n'Ubumenyamuntu]]
+'''[[Portail:Arts|Ubugeni n'Ubumenyamuntu]]'''
+------------------------------------------------------------------------------------------
+[[Image:Circle-icons-genius.svg|44px|link=Portail:Sciences|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]
+'''[[Portail:Sciences|Ubumenyi bwimbitse n'ubumenyi bw'ibintu karemano]]'''
+------------------------------------------------------------------------------------------
+[[Image:Antu applications-education-university.svg|44px|link=Portail:Sciences sociales|Ubumenyi nyamuntu na sociales]]
+'''[[Portail:Sciences humaines|Ubumenyi nyamuntu]] et [[Portail:Sciences sociales|sociales]]'''
+------------------------------------------------------------------------------------------
+[[Image:Circle-icons-news.svg|44px|link=Portail:Société|Umuryango w'abantu]]
+'''[[Portail:Société|Umuryango w'abantu]]'''
+------------------------------------------------------------------------------------------
+[[Image:Circle-icons-gear.svg|44px|link=Portail:Technologies|Ikoranabuhanga]]
+'''[[Portail:Technologies|Ikoranabuhanga]]'''
+------------------------------------------------------------------------------------------
+[[Image:Noto Emoji Oreo 1f3c0.svg|44px|link=Portail:Vie quotidienne et loisirs|Ubuzima bwa buri munsi n'imyidagaduro]]
+'''[[Portail:Vie quotidienne et loisirs|Ubuzima bwa buri munsi n'imyidagaduro]]'''
 </div>
 <div id="big_image">
 <div class="h2"><h2>Today's view</h2></div>
@@ -82,8 +78,7 @@ Ubu hari inyandiko <br>
 </div>
 </div>
 </div>
-
---------------
+------------------------------------------------------------------------------------------
 <!-------------------------------Sections at bottom of page------------------------------>
 <!--<div id="mp-other">
 ==Ibindi bice bya Wikipediya==-->
